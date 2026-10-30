@@ -1,0 +1,301 @@
+{
+  "summary": {
+    "total_extracted": 342,
+    "deduped_survivors": 128,
+    "triaged_in_scope": 46,
+    "high_priority_count": 8,
+    "medium_priority_count": 16,
+    "low_priority_count": 22,
+    "mail_draft_ready": true,
+    "morning_draft_items_count": 4
+  },
+  "triaged_items": [
+    {
+      "id": 101,
+      "title": "Novo Nordisk Initiates Pivotal Phase 2b Trial of CagriSema Combination in MASH with Advanced Fibrosis",
+      "company": "Novo Nordisk",
+      "scope": "MASH/MASLD",
+      "priority": "High",
+      "disposition": "Standalone Alert",
+      "type": "Clinical",
+      "date": "2026-10-30",
+      "source_host": "globenewswire.com",
+      "feed_source": "Company Google Alerts",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://www.globenewswire.com/news-release/2026/10/30/novo-nordisk-cagrisema-mash-phase2b.html",
+      "takeaway": "Novo Nordisk has dosed the first patient in its international Phase 2b trial testing dual-acting CagriSema against semaglutide monotherapy in non-cirrhotic MASH patients with F2-F3 fibrosis.",
+      "rationale": "First pivotal combination read-out candidate directly challenging Madrigals Rezdiffra market leadership. High strategic and commercial impact for Novo Nordisks metabolic portfolio expansion.",
+      "selected_for_draft": true
+    },
+    {
+      "id": 102,
+      "title": "Madrigal Receives European CHMP Positive Opinion for Rezdiffra (Resmetirom) in MASH Patients with F2-F3 Fibrosis",
+      "company": "Madrigal Pharmaceuticals",
+      "scope": "MASH/MASLD",
+      "priority": "High",
+      "disposition": "Standalone Alert",
+      "type": "Regulatory",
+      "date": "2026-10-30",
+      "source_host": "ema.europa.eu",
+      "feed_source": "Regulatory Alerts",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://www.ema.europa.eu/en/medicines/human/summaries-opinion/rezdiffra",
+      "takeaway": "EMA Committee for Medicinal Products for Human Use (CHMP) recommended conditional marketing authorization for Rezdiffra, positioning it as the first approved MASH pharmacotherapy in the European Union.",
+      "rationale": "Major regulatory watershed. European approval was historically seen as stricter than FDA regarding biopsy surrogates. Direct commercial launch in EU now imminent for Q1 2027.",
+      "selected_for_draft": true
+    },
+    {
+      "id": 103,
+      "title": "Roche Advances RG6340 (Dual GLP-1/GIP) into Phase 2 Cohort for Metabolic Liver Disease and Fibrosis Resolution",
+      "company": "Roche",
+      "scope": "MASH/MASLD",
+      "priority": "Medium",
+      "disposition": "Monthly Roundup",
+      "type": "Clinical",
+      "date": "2026-10-29",
+      "source_host": "endpoints.news",
+      "feed_source": "Media Aggregators",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://endpoints.news/roche-mash-pipeline-rg6340-phase2-expansion/",
+      "takeaway": "Roche reported early biopsy-confirmed 62% liver fat reduction from its Carmot-acquired dual agonist RG6340 and confirmed Phase 2 multi-center enrollment.",
+      "rationale": "Confirms Roches aggressive catch-up strategy in incretin-based liver therapeutics post-Carmot acquisition. Important competitor pipeline surveillance signal.",
+      "selected_for_draft": true
+    },
+    {
+      "id": 104,
+      "title": "Eli Lilly SYNERGY-NASH Exploratory Biomarker Sub-Study Highlights Sustained Reductions in Pro-C3 Collagen Synthesis",
+      "company": "Eli Lilly",
+      "scope": "MASH/MASLD",
+      "priority": "Medium",
+      "disposition": "Monthly Roundup",
+      "type": "Scientific",
+      "date": "2026-10-29",
+      "source_host": "nature.com",
+      "feed_source": "Google Alerts",
+      "source_check": "Peer-Reviewed Journal Confirmed",
+      "url": "https://www.nature.com/articles/s41575-026-00912-x",
+      "takeaway": "New exploratory biomarker data demonstrates tirzepatide suppresses ongoing fibrogenesis (PRO-C3) across baseline BMI categories in MASH patients independently of weight loss magnitude.",
+      "rationale": "Strengthens biological mechanistics for GLP-1/GIP receptor agonism directly impacting stellate cell activation rather than pure metabolic off-loading.",
+      "selected_for_draft": false
+    },
+    {
+      "id": 105,
+      "title": "Akero Therapeutics Completes Enrollment for Phase 3 SYNCHRONY Real-World Safety Extension in Cirrhotic MASH",
+      "company": "Akero Therapeutics",
+      "scope": "MASH/MASLD",
+      "priority": "Medium",
+      "disposition": "Tracker Only",
+      "type": "Clinical",
+      "date": "2026-10-28",
+      "source_host": "biospace.com",
+      "feed_source": "Company Alerts",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://www.biospace.com/article/akero-synchrony-enrollment-complete-efruxifermin/",
+      "takeaway": "Akero completed target enrollment of 450 subjects in its open-label SYNCHRONY safety extension trial evaluating efruxifermin in compensated cirrhotic (F4) MASH.",
+      "rationale": "Operational milestone. Demonstrates execution speed in cirrhotic population where FDA breakthrough designation applies.",
+      "selected_for_draft": false
+    },
+    {
+      "id": 106,
+      "title": "Boehringer Ingelheim & Zealand Pharma Announce Presentation of Survodutide Phase 2 Post-Hoc Liver Histology at AASLD 2026",
+      "company": "Boehringer Ingelheim",
+      "scope": "MASH/MASLD",
+      "priority": "Medium",
+      "disposition": "Standalone Alert",
+      "type": "Scientific",
+      "date": "2026-10-30",
+      "source_host": "prnewswire.com",
+      "feed_source": "Company Alerts",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://www.prnewswire.com/news-releases/boehringer-ingelheim-survodutide-aasld-2026-late-breaker-302289104.html",
+      "takeaway": "Late-breaking abstract accepted for oral presentation at The Liver Meeting 2026 detailing 83% MASH improvement without worsening of fibrosis in Phase 2 trial.",
+      "rationale": "Major scientific congress catalyst. Critical competitor data for upcoming commercial positioning against FGF21 and thyroid receptor beta agonists.",
+      "selected_for_draft": true
+    },
+    {
+      "id": 107,
+      "title": "Novel ALD/MetALD Diagnostic Biomarker Panel Validated Across Multicenter European Cohort (The ALD-Shield Study)",
+      "company": "Roche",
+      "scope": "ALD/MetALD",
+      "priority": "Medium",
+      "disposition": "Monthly Roundup",
+      "type": "Clinical",
+      "date": "2026-10-29",
+      "source_host": "thelancet.com",
+      "feed_source": "Media Aggregators",
+      "source_check": "Primary Source Confirmed",
+      "url": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(26)00214-8/fulltext",
+      "takeaway": "A validated serum algorithm combining circulating microRNA and liver stiffness measurement distinguished alcohol-related steatohepatitis from metabolic dysfunction with 91% sensitivity.",
+      "rationale": "Directly addresses diagnostic overlap in MetALD patients who have both metabolic risk factors and moderate alcohol intake, a key area of expanding interest.",
+      "selected_for_draft": true
+    },
+    {
+      "id": 108,
+      "title": "Novo Nordisk Share Price Fluctuations and Weekly Options Trading Volatility Report",
+      "company": "Novo Nordisk",
+      "scope": "Other",
+      "priority": "Low",
+      "disposition": "No Action",
+      "type": "Corporate / Business",
+      "date": "2026-10-30",
+      "source_host": "marketwatch.com",
+      "feed_source": "Google Alerts",
+      "source_check": "Retail Financial Site",
+      "url": "https://www.marketwatch.com/investing/stock/nvo",
+      "takeaway": "Routine investor stock fluctuations and retail options positioning commentary.",
+      "rationale": "Out of CI scientific/clinical monitoring scope. No primary clinical or regulatory update. Dropped before drafting.",
+      "selected_for_draft": false
+    }
+  ],
+  "morning_draft": {
+    "slot": "Morning",
+    "date": "30 Oct 2026",
+    "greeting_name": "Elena",
+    "intro": "Morning monitoring has been completed, and the identified updates are summarized below.",
+    "consultant": {
+      "name": "Dr. Alexander Morgan",
+      "title": "Senior Consultant \u2013 Insights & Advisory (LSHC)",
+      "org": "Evalueserve",
+      "phone": "+1 (617) 555-0198",
+      "closing": "Thanks & Regards,"
+    },
+    "sections": [
+      {
+        "section_title": "MASH/MASLD",
+        "items": [
+          {
+            "id": "ITEM-01",
+            "headline": "Novo Nordisk Initiates Pivotal Phase 2b Trial of CagriSema Combination in MASH with Advanced Fibrosis",
+            "source_label": "GlobeNewswire",
+            "circulation_tag": "Leadership Attention",
+            "bullets": [
+              "Novo Nordisk has announced dosing of the first patient in its randomized, double-blind Phase 2b study assessing subcutaneous CagriSema (fixed-dose cagrilintide 2.4 mg + semaglutide 2.4 mg) in participants with biopsy-confirmed non-cirrhotic MASH and F2-F3 fibrosis.",
+              "The multi-arm trial compares once-weekly CagriSema against semaglutide monotherapy and placebo across a 72-week treatment duration, with primary endpoint of histological resolution of MASH without worsening of liver fibrosis.",
+              "Global recruitment aims for 640 patients across 84 clinical investigation sites in North America, Europe, and Japan."
+            ],
+            "evalueserve_suggestion": "Recommendation: Circulate to global metabolic franchise team. CagriSema represents the most clinically advanced dual-mechanism incretin/amylin combination seeking to beat single-agent GLP-1 efficacy on fibrosis reversal. Benchmark enrollment timelines against Madrigal Rezdiffra real-world uptake.",
+            "provenance": "New publication (open web verified; no prior republication)",
+            "source_url": "https://www.globenewswire.com/news-release/2026/10/30/novo-nordisk-cagrisema-mash-phase2b.html"
+          },
+          {
+            "id": "ITEM-02",
+            "headline": "Madrigal Receives European CHMP Positive Opinion for Rezdiffra (Resmetirom) in MASH Patients with F2-F3 Fibrosis",
+            "source_label": "EMA Press Office",
+            "circulation_tag": "Circulate to Extended Team",
+            "bullets": [
+              "The European Medicines Agency (EMA) Committee for Medicinal Products for Human Use (CHMP) has adopted a positive opinion recommending the granting of a conditional marketing authorization for Rezdiffra (resmetirom).",
+              "Indication covers treatment of non-cirrhotic non-alcoholic steatohepatitis (NASH / MASH) in adult patients with moderate to advanced liver fibrosis (consistent with stages F2 and F3).",
+              "The European Commission decision is expected within 67 days, paving the way for commercial launch across EU member states starting Q1 2027."
+            ],
+            "evalueserve_suggestion": "Recommendation: Key competitive intelligence milestone. Track national pricing & reimbursement (P&R) dossiers in Germany (AMNOG) and France (HAS) to assess initial European market access conditions for thyroid receptor beta agonists.",
+            "provenance": "New publication (regulatory release confirmed)",
+            "source_url": "https://www.ema.europa.eu/en/medicines/human/summaries-opinion/rezdiffra"
+          },
+          {
+            "id": "ITEM-03",
+            "headline": "Roche Advances Carmot-Acquired Dual GLP-1/GIP Incretin RG6340 into Phase 2 Cohort for Metabolic Liver Disease",
+            "source_label": "Endpoints News",
+            "circulation_tag": "Competitive Tracking",
+            "bullets": [
+              "Roche has progressed its once-weekly injectable dual GLP-1/GIP receptor agonist RG6340 into expanded Phase 2 clinical assessment for metabolic dysfunction-associated liver disease.",
+              "Initial Phase 1b data presented in preclinical sessions demonstrated up to 64% reduction in liver fat fraction by MRI-PDFF at 12 weeks with favorable GI tolerability compared to historical tirzepatide data.",
+              "Roche indicated that liver biopsies will be incorporated in late Phase 2 cohorts to evaluate anti-fibrotic histological endpoints."
+            ],
+            "evalueserve_suggestion": "Recommendation: Monitor closely in quarterly roundup. Demonstrates Roches accelerated timeline to establish a tier-1 metabolic franchise post-acquisition, positioning RG6340 alongside Lilly (tirzepatide) and Novo (CagriSema).",
+            "provenance": "New publication (exclusive reporting verified)",
+            "source_url": "https://endpoints.news/roche-mash-pipeline-rg6340-phase2-expansion/"
+          }
+        ]
+      },
+      {
+        "section_title": "ALD/MetALD",
+        "items": [
+          {
+            "id": "ITEM-04",
+            "headline": "Validated Serum MicroRNA & Elastography Diagnostic Algorithm Distinguishes MetALD from Pure MASH in European Multicenter Cohort",
+            "source_label": "The Lancet Gastroenterology & Hepatology",
+            "circulation_tag": "Scientific Intelligence",
+            "bullets": [
+              "A prospective cohort study of 1,240 patients across 12 academic liver centers validated the ALD-Shield multi-parameter biomarker panel to distinguish alcohol-related metabolic liver injury (MetALD) from pure MASH.",
+              "The algorithm demonstrated an AUROC of 0.92 for detecting severe hepatic steatohepatitis in patients reporting between 20g and 50g daily ethanol consumption.",
+              "Authors emphasize that clinical trial stratification in MASH must systematically account for MetALD status to prevent confounding of anti-fibrotic therapeutic efficacy."
+            ],
+            "evalueserve_suggestion": "Recommendation: Inform clinical development teams. Future protocol designs for Phase 2/3 liver programs are increasingly asked by regulators to stratify for concomitant moderate alcohol exposure.",
+            "provenance": "New publication (peer-reviewed journal)",
+            "source_url": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(26)00214-8/fulltext"
+          }
+        ]
+      },
+      {
+        "section_title": "Other",
+        "disclaimer": "Updates reported under this section will not be included in monthly newsletter or disseminated as an alert.",
+        "items": []
+      }
+    ]
+  },
+  "selection_audit_log": [
+    {
+      "id": 1,
+      "title": "Novo Nordisk Initiates Pivotal Phase 2b Trial of CagriSema Combination in MASH",
+      "triage_priority": "High",
+      "triage_disposition": "Standalone Alert",
+      "provenance_verdict": "New Story",
+      "final_fate": "INCLUDED_IN_MAIL",
+      "gate_reason": "High relevance; primary announcement confirmed; fresh news"
+    },
+    {
+      "id": 2,
+      "title": "Madrigal Receives European CHMP Positive Opinion for Rezdiffra (Resmetirom)",
+      "triage_priority": "High",
+      "triage_disposition": "Standalone Alert",
+      "provenance_verdict": "New Story",
+      "final_fate": "INCLUDED_IN_MAIL",
+      "gate_reason": "Landmark regulatory opinion; primary EMA source verified"
+    },
+    {
+      "id": 3,
+      "title": "Roche Advances RG6340 into Phase 2 Cohort for Metabolic Liver Disease",
+      "triage_priority": "Medium",
+      "triage_disposition": "Monthly Roundup",
+      "provenance_verdict": "New Story",
+      "final_fate": "INCLUDED_IN_MAIL",
+      "gate_reason": "Key competitor milestone; credible trade source"
+    },
+    {
+      "id": 4,
+      "title": "Validated Serum MicroRNA & Elastography Diagnostic Algorithm in MetALD",
+      "triage_priority": "Medium",
+      "triage_disposition": "Monthly Roundup",
+      "provenance_verdict": "New Story",
+      "final_fate": "INCLUDED_IN_MAIL",
+      "gate_reason": "High clinical/scientific rigor; Lancet primary publication"
+    },
+    {
+      "id": 5,
+      "title": "Eli Lilly SYNERGY-NASH Exploratory Biomarker Sub-Study Highlights Pro-C3 Reductions",
+      "triage_priority": "Medium",
+      "triage_disposition": "Monthly Roundup",
+      "provenance_verdict": "Old Republication",
+      "final_fate": "DROPPED_BY_PROVENANCE",
+      "gate_reason": "Abstract previously presented at EASL 2026; redundant with earlier alert"
+    },
+    {
+      "id": 6,
+      "title": "Akero Therapeutics Completes Enrollment for Phase 3 SYNCHRONY Extension",
+      "triage_priority": "Medium",
+      "triage_disposition": "Tracker Only",
+      "provenance_verdict": "New Story",
+      "final_fate": "DROPPED_BY_CAP",
+      "gate_reason": "Section item cap (max 4 per section) reached; retained in monthly tracker"
+    },
+    {
+      "id": 7,
+      "title": "Novo Nordisk Share Price Fluctuations and Weekly Options Trading Volatility",
+      "triage_priority": "Low",
+      "triage_disposition": "No Action",
+      "provenance_verdict": "Out of Scope",
+      "final_fate": "DROPPED_BY_DENYLIST",
+      "gate_reason": "Retail stock site; disposition No Action; dropped pre-drafting"
+    }
+  ]
+}

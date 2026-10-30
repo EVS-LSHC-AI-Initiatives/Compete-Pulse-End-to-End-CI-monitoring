@@ -1,0 +1,928 @@
+TOTAL ROWS: 309
+--ROW 2--
+Asset/Trial Program: 'Resmetirom'
+Asset String only: '("resmetirom" OR "Rezdiffra" OR "MGL-3196" OR "MGL3196" OR "VIA-3196") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis" OR "MAESTRO")'
+--ROW 3--
+Asset/Trial Program: 'MAESTRO program'
+Asset String only: '("MAESTRO-NASH" OR "MAESTRO-NAFLD-1" OR "MAESTRO-NASH-OUTCOMES" OR "MAESTRO") AND ("resmetirom" OR "Rezdiffra" OR "MASH" OR "cirrhosis" OR "outcomes")'
+--ROW 4--
+Asset/Trial Program: 'Ervogastat/resmetirom combination'
+Asset String only: '("Ervogastat" OR "resmetirom" OR "DGAT-2" OR "DGAT 2") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis")'
+--ROW 5--
+Asset/Trial Program: 'ARO-PNPLA3/resmetirom combination'
+Asset String only: '("ARO-PNPLA3" OR "resmetirom" OR "siRNA" OR "PNPLA3") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis")'
+--ROW 6--
+Asset/Trial Program: 'MGL-2086/resmetirom combination'
+Asset String only: '("MGL-2086" OR "resmetirom" "GLP-1 receptor agonist" OR "GLP-1 RA" OR "GLP-1RA" OR "GLP-1") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis")'
+--ROW 7--
+Asset/Trial Program: 'siRNA/resmetirom combination (six programs)'
+Asset String only: '("resmetirom" OR "SiRNA") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis")'
+--ROW 8--
+Asset/Trial Program: 'Semaglutide'
+Asset String only: '("semaglutide" OR "Ozempic" OR "Wegovy" OR "NN9535" OR "NN-9535" OR "NN 9535" OR "ESSENCE") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis" OR "steatotic liver disease")'
+--ROW 9--
+Asset/Trial Program: 'CagriSema / cagrilintide'
+Asset String only: '("cagrilintide" OR "CagriSema" OR "AM-833" OR "AM833" OR "NNC0194-0499") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis" OR "liver fat")'
+--ROW 10--
+Asset/Trial Program: 'Efruxifermin'
+Asset String only: '("efruxifermin" OR "AKR-001" OR "AKR001" OR "AMG-876" OR "HARMONY" OR "SYMMETRY" OR "SYNCHRONY") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis" OR "F4")'
+--ROW 11--
+Asset/Trial Program: 'NNC4005-0001/NNC4005'
+Asset String only: '("NNC4005-0001" OR "NNC4005" OR "NNC-4005" OR "SLC25A5" OR "SLC25A5 siRNA" OR "SLC25A5") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis" OR "F4")'
+--ROW 12--
+Asset/Trial Program: 'Tirzepatide'
+Asset String only: '("tirzepatide" OR "Zepbound" OR "Mounjaro" OR "LY3298176" OR "LY-3298176" OR "SYNERGY-NASH") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis")'
+--ROW 13--
+Asset/Trial Program: 'Retatrutide'
+Asset String only: '("retatrutide" OR "LY3437943" OR "LY-3437943" OR "triple agonist") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "liver fat" OR "fibrosis")'
+--ROW 14--
+Asset/Trial Program: 'Mazdutide'
+Asset String only: '("mazdutide" OR "IBI362" OR "IBI-362" OR "LY3305677" OR "LY-3305677") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis" OR "liver fat")'
+--ROW 15--
+Asset/Trial Program: 'Pegozafermin'
+Asset String only: '("pegozafermin" OR "BIO89-100" OR "BIO-89-100" OR "TEV-47948" OR "ENLIGHTEN") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis" OR "portal hypertension")'
+--ROW 16--
+Asset/Trial Program: 'Afimkibart'
+Asset String only: '("Afimkibart" OR "RG6631" OR "RG-6631" OR "RG 6631" OR "FIBROLITE" OR "RO7790121" OR "RO-7790121" OR "RO 7790121" OR "PF 6480605" OR "PF-06480605" OR "PF06480605" OR "RVT-3101") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cirrhosis")'
+--ROW 17--
+Asset/Trial Program: 'Efimosfermin alfa'
+Asset String only: '("efimosfermin" OR "efimosfermin alfa" OR "BOS-580" OR "BOS580" OR "GSK6519754" OR "GSK-6519754" OR "GSK 6519754") AND ("MASH" OR "NASH" OR "MASLD" OR "FGF21" OR "fibrosis" OR "ELF" OR "LSM" OR "PRO-C3")'
+--ROW 18--
+Asset/Trial Program: 'Gatuzosiran / HSD17B13'
+Asset String only: '("gatuzosiran" OR "GSK4532990" OR "GSK-4532990" OR "ARO-HSD" OR "ARO HSD" OR "VSA-006" OR "HSD17B13") AND ("MASH" OR "NASH" OR "MASLD" OR "ALD" OR "alcohol-related liver disease" OR "fibrosis" OR "siRNA")'
+--ROW 19--
+Asset/Trial Program: 'Efinopegdutide'
+Asset String only: '("efocipegtrutide" OR "HM15211" OR "HM-15211" OR "HM 15211" OR "MK-6024" OR "MK 6024" OR "MK6024") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis")'
+--ROW 20--
+Asset/Trial Program: 'Pemvidutide'
+Asset String only: '("pemvidutide" OR "ALT-801" OR "ALT801" OR "ALT 801" OR "SP-1373" OR "VPD-107" OR "IMPACT" OR "PERFORMA") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis" OR "liver fat")'
+--ROW 21--
+Asset/Trial Program: 'Lanifibranor'
+Asset String only: '("lanifibranor" OR "IVA-337" OR "IVA337" OR "Inventiva" OR "NATiV3" OR "NATIVE") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "PPAR" OR "adiponectin")'
+--ROW 22--
+Asset/Trial Program: 'AZD2693 / PNPLA3'
+Asset String only: '("AZD2693" OR "AZD-2693" OR "AZD 2693" OR "ION839" OR "ION-839" OR "PNPLA3") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "FORTUNA" OR "genotype")'
+--ROW 23--
+Asset/Trial Program: 'AZD2389'
+Asset String only: '("AZD2389" OR "AZD-2389" OR "AZD 2389" OR "FAP inhibitor" OR "fibroblast activation protein") AND ("MASH" OR "MASLD" OR "NASH" OR "liver fibrosis" OR "compensated cirrhosis" OR "BORANA" OR "PECHORA")'
+--ROW 24--
+Asset/Trial Program: 'Zabopegdutide/DD01'
+Asset String only: '("zabopegdutide" OR "DD01" OR "DD-01" OR "D&D Pharmatech") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "liver fat" OR "GLP-1" OR "glucagon")'
+--ROW 25--
+Asset/Trial Program: 'VK2809'
+Asset String only: '("VK2809" OR "VK-2809" OR "VK 2809" OR "MB-07811" OR "MB07811") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "liver fat" OR "fibrosis")'
+--ROW 26--
+Asset/Trial Program: 'ALG-055009'
+Asset String only: '("ALG-055009" OR "ALG 055009" OR "ALG055009") AND ("MASH" OR "MASLD" OR "NASH" OR "fibrosis" OR " cirrhosis" OR "fatty liver" OR "steatohepatitis")'
+--ROW 27--
+Asset/Trial Program: 'HSK31679 / Haisco'
+Asset String only: '("HSK31679" OR "HSK-31679" OR "Haisco") AND ("MASH" OR "NASH" OR "MASLD" OR "THR-beta" OR "fibrosis")'
+--ROW 28--
+Asset/Trial Program: 'Efocipegtrutide'
+Asset String only: '("efinopegdutide" OR "MK-6024" OR "MK6024" OR "HM12525A" OR "JNJ-64565111") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "fibrosis")'
+--ROW 29--
+Asset/Trial Program: 'Denifanstat / FASN'
+Asset String only: '("denifanstat" OR "TVB-2640" OR "TVB2640" OR "ASC-40" OR "ASC40" OR "FASN inhibitor") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "liver fat")'
+--ROW 30--
+Asset/Trial Program: 'DA-1726'
+Asset String only: '("DA-1726" OR "DA 1726" OR "DA1726") AND ("MASH" OR "MASLD" OR "NASH" OR "fibrosis" OR " cirrhosis" OR "fatty liver" OR "steatohepatitis" OR "obesity")'
+--ROW 31--
+Asset/Trial Program: 'TERN-501 / TERN-101'
+Asset String only: '("TERN-501" OR "TERN501" OR "TERN 501" OR "TERN-101" OR "TERN101" OR "TERN 101") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "THR-beta" OR "liver fat" OR "fibrosis")'
+--ROW 32--
+Asset/Trial Program: 'Rapirosiran / ALN-HSD'
+Asset String only: '("rapirosiran" OR "ALN-HSD" OR "ALNHSD" OR "ALN HSD" OR "HSD17B13") AND ("MASH" OR "NASH" OR "MASLD" OR "ALD" OR "liver disease" OR "fibrosis")'
+--ROW 33--
+Asset/Trial Program: 'ALN-PNP / PNPLA3'
+Asset String only: '("ALN-PNP" OR "ALNPNP" OR "ALN PNP" OR "PNPLA3") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "I148M" OR "genotype")'
+--ROW 34--
+Asset/Trial Program: 'ALN-CIDEB'
+Asset String only: '("ALN-CIDEB" OR "ALNCIDEB" OR "ALN CIDEB" OR "CIDEB") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "liver fat" OR "fibrosis")'
+--ROW 35--
+Asset/Trial Program: 'Cilofexor + firsocostat'
+Asset String only: '("cilofexor" OR "GS-9674" OR "GS9674") AND ("firsocostat" OR "GS-0976" OR "GS0976") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis")'
+--ROW 36--
+Asset/Trial Program: 'FXR314'
+Asset String only: '("FXR314" OR "FXR-314" OR "MET-642" OR "MET642") AND ("MASH" OR "NASH" OR "MASLD" OR "liver fibrosis" OR "liver disease")'
+--ROW 37--
+Asset/Trial Program: 'Rencofilstat'
+Asset String only: '("rencofilstat" OR "CRV-431" OR "CRV431") AND ("MASH" OR "NASH" OR "MASLD" OR "fibrosis" OR "cyclophilin")'
+--ROW 38--
+Asset/Trial Program: 'Miricorilant'
+Asset String only: '("miricorilant" OR "CORT118335" OR "CORT-118335") AND ("MASH" OR "NASH" OR "MASLD" OR "NAFLD" OR "liver fat" OR "fibrosis")'
+--ROW 39--
+Asset/Trial Program: 'Leronlimab'
+Asset String only: '("leronlimab" OR "PRO140" OR "PRO-140" OR "Vyrologix") AND ("MASH" OR "NASH" OR "MASLD" OR "liver disease" OR "fibrosis")'
+--ROW 40--
+Asset/Trial Program: 'JNJ-5111'
+Asset String only: '("JNJ-5111" OR "JNJ 5111") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 41--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TEV-47948" OR "TEV47948" OR "TEV 47948") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 42--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HM-12525A" OR "HM12525A" OR "HM 12525A") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 43--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Efocipegtrutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 44--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("SP-1373" OR "SP1373" OR "SP 1373") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 45--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALT-801" OR "ALT801" OR "ALT 801") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 46--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Efinopegdutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 47--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("VPD-107" OR "VPD107" OR "VPD 107") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 48--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NN-9838" OR "NN9838" OR "NN 9838") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 49--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("IVA-337" OR "IVA337" OR "IVA 337") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 50--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("VIA-3196" OR "VIA3196" OR "VIA 3196") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 51--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MK-6024" OR "MK6024" OR "MK 6024") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 52--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Firsocostat" OR "GS-0976" OR "GS0976" OR "GS 0976") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 53--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ASC-40" OR "ASC40" OR "ASC 40") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 54--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LBO-03" OR "LBO03" OR "LBO 03") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 55--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NN-9931" OR "NN9931" OR "NN 9931") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 56--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TERN-501" OR "TERN501" OR "TERN 501") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 57--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BOS-580" OR "BOS580" OR "BOS 580") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 58--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GS-9674" OR "GS9674" OR "GS 9674") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 59--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TERN-101" OR "TERN101" OR "TERN 101") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 60--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NN-9535" OR "NN9535" OR "NN 9535") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 61--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-2693" OR "AZD2693" OR "AZD 2693") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 62--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Rencofilstat") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 63--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Cilofexor" OR "CILO") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 64--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ION-839" OR "ION839" OR "ION 839") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 65--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pemvidutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 66--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MB-07811" OR "MB07811" OR "MB 07811") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 67--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("VK-2809" OR "VK2809" OR "VK 2809") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 68--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HM-15211" OR "HM15211" OR "HM 15211") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 69--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LY-3298176" OR "LY3298176" OR "LY 3298176") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 70--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AKR-001" OR "AKR001" OR "AKR 001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 71--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AMG-876" OR "AMG876" OR "AMG 876") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 72--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Denifanstat") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 73--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("JNJ-64565111") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 74--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AM-833" OR "AM833" OR "AM 833") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 75--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LY-3437943" OR "LY3437943" OR "LY 3437943") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 76--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Retatrutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 77--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NNC0194-0499" OR "NNC01940499" OR "NNC0194 0499" OR "NN-0499") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 78--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BIO-89-100" OR "BIO89100" OR "BIO89-100" OR "BIO89 100") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 79--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pegozafermin") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 80--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Mitiperstat") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 81--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("FXR-314" OR "FXR314" OR "FXR 314") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 82--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DD-01" OR "DD01" OR "DD 01") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 83--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RO-7790121" OR "RO7790121" OR "RO 7790121") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 84--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("UB-T251" OR "UBT251" OR "UB T251") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 85--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Mazdutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 86--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("IBI-362" OR "IBI362" OR "IBI 362") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 87--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ZSP-1601" OR "ZSP1601" OR "ZSP 1601") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 88--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OPK-88006" OR "OPK88006" OR "OPK 88006") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 89--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Icosabutate") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 90--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OLX-75016" OR "OLX75016" OR "OLX 75016") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 91--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NNC-0581-0001" OR "NNC0581-0001" OR "NNC0581 0001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 92--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("J2H-1702" OR "J2H1702" OR "J2H 1702") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 93--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ACT-500" OR "ACT500" OR "ACT 500") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 94--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TLC-2716" OR "TLC2716" OR "TLC 2716") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 95--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-9550" OR "AZD9550" OR "AZD 9550") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 96--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-2389" OR "AZD2389" OR "AZD 2389") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 97--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-5004" OR "AZD5004" OR "AZD 5004") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 98--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RTX-001" OR "RTX001" OR "RTX 001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 99--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Thykamine") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 100--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Leronlimab") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 101--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RG-6631" OR "RG6631" OR "RG 6631") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 102--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Kayshild" OR "Wegovy" OR "Semaglutide") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 103--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Aramchol Meglumine" OR "Aramchol" OR "Arachol derivative") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 104--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Icomidocholic acid" OR "Icomidocholate" OR "bile acid analog") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 105--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GR-MD-02" OR "Belapectin" OR "GRMD 02") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 106--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MSDC-0602K" OR "Azemiglitazone" OR "MSDC 0602K") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 107--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Obeticholic acid" OR "Ocaliva" OR "OCA") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 108--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Oltipraz" OR "PMK-N01GI1" OR "PMK N01GI1") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 109--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Secukinumab" OR "AIN-457" OR "AIN 457") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 110--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ADI-PEG 20" OR "Pegargiminase" OR "ADIPEG20") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 111--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Aldafermin" OR "NGM-282" OR "NGM282") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 112--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALN-HSD" OR "ALNHSD" OR "ALN HSD") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 113--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALS-L1023" OR "ALSL1023" OR "ALS L1023") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 114--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ASC41" OR "ASC-41" OR "ASC 41") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 115--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HTD1801" OR "HTD-1801" OR "HTD 1801") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 116--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BUDCA" OR "Berberine Ursodeoxycholic" OR "UDCA combination") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 117--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BI 685509" OR "BI-685509" OR "BI685509") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 118--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BMS-986263" OR "BMS986263" OR "BMS 986263") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 119--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Chiglitazar" OR "CS-038" OR "CS038") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 120--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Bilessglu" OR "Bilopine" OR "bile modulator") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 121--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CM-101" OR "CM101" OR "CM 101") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 122--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DA-1241" OR "DA1241" OR "DA 1241") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 123--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Fazpilodemab" OR "BFKB-8488A" OR "BFKB8488A") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 124--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RO7040551" OR "RG7992" OR "RO-7040551") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 125--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("FM-101" OR "FM101" OR "FM 101") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 126--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GH-509" OR "GH509" OR "GH 509") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 127--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GSK4532990" OR "GSK-4532990" OR "GSK 4532990") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 128--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ARO-HSD" OR "AROHSD" OR "ARO HSD") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 129--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Hepastem" OR "Hepa-Stem" OR "stem cell liver") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 130--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HPG-1860" OR "HPG1860" OR "HPG 1860") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 131--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HSK-31679" OR "HSK31679" OR "HSK 31679") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 132--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HU-6" OR "HU6" OR "HU 6") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 133--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Icosabutate" OR "NST-4016" OR "NST4016") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 134--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ION224" OR "ION-224" OR "ION 224") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 135--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("IONIS-DGAT2Rx" OR "ISIS-DGAT2Rx" OR "DGAT2Rx") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 136--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("JKB-122" OR "JKB122" OR "JKB 122") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 137--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ketohexokinase inhibitor" OR "KHK inhibitor" OR "fructose metabolism inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 138--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Leronlimab" OR "PRO-140" OR "PRO140") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 139--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PA14" OR "PA 14" OR "antifibrotic PA14") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 140--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Hydronidone" OR "F-351" OR "F351") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 141--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GF-1002" OR "GF1002" OR "GF 1002") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 142--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GS-300" OR "GS300" OR "GS 300") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 143--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TLC-2716" OR "TLC2716" OR "TLC 2716") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 144--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Vonafexor" OR "EYP-001" OR "EYP001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 145--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PXL-007" OR "PXL007" OR "PXL 007") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 146--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ZED1227" OR "ZED-1227" OR "ZED 1227") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 147--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TAK-227" OR "TAK227" OR "TAK 227") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 148--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ZED-101" OR "ZED101" OR "ZED 101") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 149--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ZSP-1601" OR "ZSP1601" OR "ZSP 1601") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 150--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALG-055009" OR "ALG055009" OR "ALG 055009") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 151--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALG-009" OR "ALG009" OR "ALG G009") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 152--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALG-THR-β" OR "ALG THR beta" OR "THR beta agonist") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 153--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ALN-PNP" OR "ALN PNP" OR "ALNPNP") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 154--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AMG-609" OR "AMG609" OR "AMG 609") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 155--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ASC-43F" OR "ASC43F" OR "ASC 43F") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 156--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ASC41/ASC42" OR "ASC41" OR "ASC42") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 157--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-7053" OR "AZD7053" OR "AZD 7053") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 158--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD-7503" OR "AZD7503" OR "AZD 7503") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 159--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ION-455" OR "ION455" OR "ION 455") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 160--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("B-1344" OR "B1344" OR "B 1344") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 161--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BI-3006337" OR "BI3006337" OR "BI 3006337") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 162--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CB-4211" OR "CB4211" OR "CB 4211") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 163--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DD-01" OR "DD01" OR "DD 01") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 164--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DR-10624" OR "DR10624" OR "DR 10624") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 165--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ECC-4703" OR "ECC4703" OR "ECC 4703") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 166--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ecnoglutide" OR "XW-003" OR "XW003") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 167--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("XW-004" OR "XW004" OR "XW 004") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 168--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("EDP-297" OR "EDP297" OR "EDP 297") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 169--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("FXR-314" OR "FXR314" OR "FXR 314") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 170--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MET-642" OR "MET642" OR "MET 642") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 171--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GM-60106" OR "GM60106" OR "GM 60106") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 172--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HEC-88473" OR "HEC88473" OR "HEC 88473") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 173--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HEC-96719" OR "HEC96719" OR "HEC 96719") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 174--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HUYPS-1" OR "HUYPS1" OR "HUYPS 1") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 175--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ID119031166M" OR "ID-119031166" OR "ID 119031166M") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 176--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("INI-822" OR "INI822" OR "INI 822") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 177--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("JNJ-75220795" OR "JNJ75220795" OR "JNJ 75220795") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 178--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ARO-PNPLA3" OR "AROPNPLA3" OR "ARO PNPLA3") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 179--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Larsucosterol" OR "25HC3S" OR "DUR-928") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 180--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DV-928" OR "DV928" OR "DV 928") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 181--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ZSP0678" OR "ZS-P0678" OR "ZS P0678") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 182--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CVI-2742" OR "CVI2742" OR "CVI 2742") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 183--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DA-1726" OR "DA1726" OR "DA 1726") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 184--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DD-03" OR "DD03" OR "DD 03") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 185--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Utreglutide" OR "GL-0034" OR "GL0034") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 186--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HPG-5119" OR "HPG5119" OR "HPG 5119") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 187--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("HPG-7233" OR "HPG7233" OR "HPG 7233") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 188--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ID-119050134" OR "ID119050134" OR "ID 119050134") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 189--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GPR84 Antagonist" OR "GPR84 inhibitor" OR "GPR84 blocker") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 190--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Tesamorelin" OR "TH-9507" OR "TH9507") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 191--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ibutamoren" OR "MK-677" OR "MK677") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 192--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LUM-201" OR "LUM201" OR "LUM 201") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 193--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ontamalimab" OR "TAK-647" OR "TAK647") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 194--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("SHP-647" OR "SHP647" OR "SHP 647") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 195--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PF-00547659" OR "PF00547659" OR "PF 00547659" OR "PF-547659" OR "PF547659" OR "PF 547659") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 196--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LB-P6/LB-P8" OR "LB-P6" OR "LB-P8") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 197--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LR20056" OR "LR-20056" OR "LR 20056") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 198--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TT-01025-CL" OR "TT01025CL" OR "TT 01025 CL") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 199--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LG-00303174" OR "LG00303174" OR "LG 00303174") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 200--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NN6581" OR "NN-6581" OR "NN 6581" OR "NNC0581-0001" OR "NNC-0581-0001" OR "NNC0581 0001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 201--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("J2H-1702" OR "J2H1702" OR "J2H 1702") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 202--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("VK2735" OR "VK-2735" OR "VK 2735") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 203--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("A4368" OR "A-4368" OR "A 4368") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 204--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ENN0403" OR "ENN-0403" OR "ENN 0403") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 205--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ENB106" OR "ENB-106" OR "ENB 106") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 206--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("EA3571" OR "EA-3571" OR "EA 3571") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 207--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GDD3898" OR "GDD-3898" OR "GDD 3898") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 208--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("SRT015" OR "SRT-015" OR "SRT 015") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 209--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OLX75016" OR "OLX-75016" OR "OLX 75016") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 210--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OLX702A" OR "OLX-702A" OR "OLX 702A") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 211--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PLN-1474" OR "PLN1474" OR "PLN 1474") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 212--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("YH25724" OR "YH-25724" OR "YH 25724") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 213--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PBF1650" OR "PBF 1650" OR "PBF-1650") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 214--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TLC-6740" OR "TLC6740" OR "TLC 6740") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 215--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("YHC1102" OR "YHC-1102" OR "YHC 1102") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 216--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TLC-065" OR "TLC065" OR "TLC 065") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 217--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("IOA289" OR "IOA-289" OR "IOA 289") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 218--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TERN-601" OR "TERN601" OR "TERN 601") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 219--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Mazdutide" OR "IBI-362" OR "IBI362") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 220--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LY-3305677" OR "LY3305677" OR "LY 3305677") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 221--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OXM-3" OR "OXM3" OR "OXM 3") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 222--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LY3849891" OR "LY-3849891" OR "LY 3849891") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 223--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LY3885125" OR "LY-3885125" OR "LY 3885125") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 224--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Miricorilant" OR "cortisol modulator" OR "GR antagonist") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 225--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Fluvoxamine" OR "SSRI" OR "selective serotonin reuptake inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 226--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NGM395" OR "NGM-395" OR "NGM 395") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 227--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OA-235i" OR "OA235i" OR "OA 235i") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 228--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pemvidutide" OR "ALT-801" OR "ALT801") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 229--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PF-07202954" OR "PF07202954" OR "PF 07202954") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 230--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PF-07853578" OR "PF07853578" OR "PF 07853578") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 231--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PXL770" OR "PXL-770" OR "PXL 770") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 232--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RES-010" OR "RES010" OR "RES 010") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 233--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RXC007" OR "RXC-007" OR "RXC 007") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 234--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("SNP-630" OR "SNP630" OR "SNP 630") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 235--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TB-840" OR "TB840" OR "TB 840") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 236--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TERN-201" OR "TERN201" OR "TERN 201") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 237--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TLY012" OR "TLY-012" OR "TLY 012") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 238--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ID119050" OR "ID-119050" OR "ID 119050") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 239--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("INI-678" OR "INI678" OR "INI 678") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 240--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DA-1726" OR "DA1726" OR "DA 1726") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 241--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OATD-01" OR "OATD01" OR "OATD 01") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 242--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GLP-4716" OR "GLP4716" OR "GLP 4716") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 243--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OAT-889" OR "OAT889" OR "OAT 889") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 244--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CHIT1 inhibitor" OR "chitotriosidase inhibitor" OR "CHIT1 blocker") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 245--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OGB21502" OR "OGB-21502" OR "OGB 21502") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 246--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Repirinast" OR "mast cell stabilizer" OR "anti allergic drug") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 247--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NP251" OR "NP-251" OR "NP 251") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 248--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("XW013" OR "XW-013" OR "XW 013") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 249--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("XW015" OR "XW-015" OR "XW 015") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 250--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AX2911" OR "AX-2911" OR "AX 2911") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 251--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AGTX-2003" OR "AGTX2003" OR "AGTX 2003") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 252--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Lixudebart" OR "ALE-F02" OR "ALEF02") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 253--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Cudetaxestat" OR "BLD-0409" OR "BLD0409") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 254--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PAT-409" OR "PAT409" OR "PAT 409") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 255--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CER-209" OR "CER209" OR "CER 209") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 256--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NGM313" OR "NGM-313" OR "NGM 313") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 257--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MK-3655" OR "MK3655" OR "MK 3655") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 258--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("KRIYA-497" OR "KRIYA497" OR "KRIYA 497") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 259--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LR1" OR "LR2" OR "NEK7") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 260--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ONG41008" OR "ONG 41008" OR "fibrosis inhibitor ONG41008") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 261--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PXS-5382" OR "PXS 5382A" OR "SNT-5382") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 262--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("SRT-015" OR "SRT 015" OR "SRT015") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 263--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TJC0265" OR "TJC 0265" OR "TJC-0265") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 264--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Exosome Biotherapy" OR "Everzom" OR "exosome therapy") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 265--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("MT-001" OR "MT001" OR "MT 001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 266--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("siRNA" OR "small interfering RNA" OR "RNA interference") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 267--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("TGFTX4" OR "TGF TX4" OR "TGF-beta therapy") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 268--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Nitazoxanide" OR "antiparasitic nitazoxanide" OR "broad spectrum antiviral") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 269--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("OXM-104" OR "OXM104" OR "OXM 104") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 270--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("GLP-1" OR "glucagon receptor agonist" OR "GLP-1 glucagon coagonist") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 271--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("BT-002" OR "BT002" OR "BT 002") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 272--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LBS-009" OR "LBS009" OR "LBS 009") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 273--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LAE-105" OR "LAE105" OR "LAE 105") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 274--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LAE-104" OR "LAE104" OR "LAE 104") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 275--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("AZD2389" OR "AZD-2389" OR "AZD 2389") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 276--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RBD-1073" OR "RBD1073" OR "RBD 1073") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 277--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("RBD-5083" OR "RBD5083" OR "RBD 5083") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 278--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ribo Life Science" OR "CS060304" OR "CS-060304") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 279--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("CS060380" OR "CS-060380" OR "PA-14") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 280--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Vyrologix" OR "Leronlimab" OR "PRO-140") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 281--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Linafexor" OR "CS0159" OR "CS-0159") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 282--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("LPCN-1144" OR "LPCN1144" OR "LPCN 1144") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 283--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Testosterone prodrug" OR "androgen prodrug" OR "testosterone precursor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 284--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Miricorilant" OR "CORT118335" OR "CORT-118335") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 285--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Mitiperstat" OR "AZD4831" OR "AZD-4831") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 286--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Tipelukast" OR "MN-001" OR "MN001") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 287--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("KCA-757" OR "KCA757" OR "KCA 757") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 288--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Namodenoson" OR "CF102" OR "CF-102") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 289--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NF-kB deregulation" OR "NF-kB pathway" OR "NF-kB inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 290--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NNC0194-0499" OR "NNC01940499" OR "NNC0194 0499") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 291--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("NN9500" OR "FGF21" OR "FGF21 analog") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 292--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("EA-3355" OR "EA3355" OR "EA 3355") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 293--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Norursodeoxycholic Acid" OR "norUDCA" OR "modified bile acid") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 294--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ORMD-0801" OR "ORMD0801" OR "ORMD 0801") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 295--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pegozafermin" OR "BIO-89-100" OR "BIO89-100") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 296--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pemafibrate" OR "K-877-ER" OR "K877ER") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 297--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("FGF21 agonist" OR "FGF21 analog" OR "FGF21 therapy") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 298--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PF-06835919" OR "PF06835919" OR "PF 06835919") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 299--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ketohexokinase inhibitor" OR "KHK inhibitor" OR "fructose metabolism inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 300--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Ervogastat" OR "PF-06865571" OR "PF06865571") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 301--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("DGAT2 inhibitor" OR "DGAT2 blockade" OR "triglyceride synthesis inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 302--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Clesacostat" OR "PF-05221304" OR "PF05221304") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 303--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("ACC inhibitors" OR "acetyl-CoA carboxylase inhibitors" OR "lipogenesis inhibitor") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 304--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Pioglitazone" OR "PPAR gamma agonist" OR "thiazolidinedione") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 305--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PXL065" OR "PXL-065" OR "PXL 065") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 306--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("PPARγ" OR "PPAR gamma" OR "PPAR gamma agonists") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 307--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Saroglitazar" OR "Saroglitazar Magnesium" OR "Lipaglyn") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 308--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Bilypsa" OR "ZY-H1" OR "bile acid sequestrant") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 309--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Tropifexor" OR "LJN-452" OR "LJN452") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'
+--ROW 310--
+Asset/Trial Program: 'Asset Not Defined'
+Asset String only: '("Tropifexor Cenicriviroc" OR "CVC LJN452" OR "LJN452 combination") AND ("fibrosis" OR "NAFLD" OR "NASH" OR "MASH" OR "MASLD" OR "metabolic dysfunction-associated Steatotic liver disease" OR "Metabolic dysfunction associated steatohepatitis" OR "Metabolic dysfunction-associated steatohepatitis" OR "Hepatic impairment" OR "cirrhosis" OR "cF4" OR "Fc4" OR "compensated cirrhosis")'

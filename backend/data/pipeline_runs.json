@@ -1,0 +1,79 @@
+[
+  {
+    "id": "RUN-20261030195458",
+    "timestamp": "30 Oct 2026, 19:54 IST",
+    "slot": "Evening",
+    "stage": "all",
+    "status": "Success",
+    "duration": "1m 42s",
+    "raw_extracted": 148,
+    "deduped_count": 84,
+    "triaged_count": 84,
+    "draft_items": 5,
+    "triggered_by": "Dr. Alexander Morgan (Web Console)",
+    "logs": [
+      "[30 Oct 2026, 19:54 IST] Pipeline stage 'all' initiated by Dr. Alexander Morgan.",
+      "[30 Oct 2026, 19:54 IST] Ingested 592 feeds across OPML categories.",
+      "[30 Oct 2026, 19:54 IST] Executed URL deduplication: 148 raw items -> 84 unique candidates.",
+      "[30 Oct 2026, 19:54 IST] Parallel AI Triage evaluated candidates against MASH scope and clinical relevance.",
+      "[30 Oct 2026, 19:54 IST] Morning Brief drafted with 5 prioritized items.",
+      "[30 Oct 2026, 19:54 IST] Pipeline completed with exit code 0."
+    ]
+  },
+  {
+    "run_id": "RUN-20261030-1815",
+    "timestamp": "2026-10-30 18:15:32 IST",
+    "type": "Orchestrated End-to-End",
+    "status": "SUCCESS",
+    "duration_seconds": 142,
+    "stages_executed": [
+      "Stage 1: RSS Ingestion",
+      "Stage 2: Link Dedup",
+      "Stage 3: AI Triage",
+      "Stage 4: Morning Brief"
+    ],
+    "items_extracted": 342,
+    "items_deduped": 128,
+    "items_triaged": 46,
+    "draft_items_produced": 4,
+    "draft_file": "Output_Mail_Draft/Morning_Update_30Oct2026_181745.htm",
+    "processor": "base"
+  },
+  {
+    "run_id": "RUN-20261029-1145",
+    "timestamp": "2026-10-29 11:45:10 IST",
+    "type": "Orchestrated End-to-End",
+    "status": "SUCCESS",
+    "duration_seconds": 136,
+    "stages_executed": [
+      "Stage 1: RSS Ingestion",
+      "Stage 2: Link Dedup",
+      "Stage 3: AI Triage",
+      "Stage 4: Morning Brief"
+    ],
+    "items_extracted": 310,
+    "items_deduped": 114,
+    "items_triaged": 41,
+    "draft_items_produced": 3,
+    "draft_file": "Output_Mail_Draft/Morning_Update_29Oct2026_114720.htm",
+    "processor": "base"
+  },
+  {
+    "run_id": "RUN-20261028-1630",
+    "timestamp": "2026-10-28 16:30:00 IST",
+    "type": "CT Change Detection",
+    "status": "SUCCESS",
+    "duration_seconds": 48,
+    "stages_executed": [
+      "CT Step 1 Search",
+      "CT Step 2 Enrich",
+      "CT Change Detection"
+    ],
+    "items_extracted": 310,
+    "items_deduped": 8,
+    "items_triaged": 0,
+    "draft_items_produced": 0,
+    "draft_file": "Change_Reports/Change_Report_261028_163048.xlsx",
+    "processor": "n/a"
+  }
+]

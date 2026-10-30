@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Media Aggregators &amp; Literature RSS Feeds</title>
+    <dateModified>Thu, 02 Jul 2026 12:00:00 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Industry Media - Trade Publications &amp; Wire Services" title="Industry Media - Trade Publications &amp; Wire Services">
+      <outline text="FierceBiotech" title="FierceBiotech" type="rss" xmlUrl="https://www.fiercebiotech.com/rss/xml"/>
+      <outline text="FiercePharma" title="FiercePharma" type="rss" xmlUrl="https://www.fiercepharma.com/rss/xml"/>
+      <outline text="Endpoints News" title="Endpoints News" type="rss" xmlUrl="https://endpoints.news/feed/"/>
+      <outline text="GlobeNewswire - Biotechnology" title="GlobeNewswire - Biotechnology" type="rss" xmlUrl="https://www.globenewswire.com/RssFeed/industry/4573-Biotechnology"/>
+      <outline text="GlobeNewswire - Pharmaceuticals" title="GlobeNewswire - Pharmaceuticals" type="rss" xmlUrl="https://www.globenewswire.com/RssFeed/industry/4577-Pharmaceuticals"/>
+      <outline text="GlobeNewswire - Health Care" title="GlobeNewswire - Health Care" type="rss" xmlUrl="https://www.globenewswire.com/RssFeed/industry/4000-Health%20Care"/>
+      <outline text="BusinessWire - Health" title="BusinessWire - Health" type="rss" xmlUrl="https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEVlZ"/>
+      <outline text="PRNewswire - Pharmaceuticals" title="PRNewswire - Pharmaceuticals" type="rss" xmlUrl="https://www.prnewswire.com/rss/news-releases-list.rss?category=pharmaceutical"/>
+      <outline text="PRNewswire - Health" title="PRNewswire - Health" type="rss" xmlUrl="https://www.prnewswire.com/rss/news-releases-list.rss?category=health"/>
+      <outline text="PRNewswire - Biotechnology" title="PRNewswire - Biotechnology" type="rss" xmlUrl="https://www.prnewswire.com/rss/news-releases-list.rss?category=biotechnology"/>
+      <outline text="NYT Health" title="NYT Health" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+      <outline text="US FDA Press Announcements (via Google News)" title="US FDA Press Announcements (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:fda.gov+press+announcement&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="FDA Drug Approvals News (via Google News)" title="FDA Drug Approvals News (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=FDA+approved+new+drug+NDA+OR+BLA+approval&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="BioSpace (via Google News)" title="BioSpace (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:biospace.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="Reuters Healthcare &amp; Pharma (via Google News)" title="Reuters Healthcare &amp; Pharma (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=source:reuters+pharmaceutical+health&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="PharmaTimes" title="PharmaTimes" type="rss" xmlUrl="https://pharmatimes.com/news/feed/"/>
+      <outline text="PMLive" title="PMLive" type="rss" xmlUrl="https://pmlive.com/feed/"/>
+      <outline text="pharmaphorum" title="pharmaphorum" type="rss" xmlUrl="https://pharmaphorum.com/rssfeed/news-and-features"/>
+    </outline>
+    <outline text="Industry Media - Regional / International Pharma News" title="Industry Media - Regional / International Pharma News">
+      <outline text="Businesskorea - All Articles" title="Businesskorea - All Articles" type="rss" xmlUrl="https://cdn.businesskorea.co.kr/rss/gns_allArticle.xml"/>
+      <outline text="Tanabe Pharma News" title="Tanabe Pharma News" type="rss" xmlUrl="https://www.tanabe-pharma.com/rss/feed.php/release.xml"/>
+      <outline text="Nikkei BioTech" title="Nikkei BioTech" type="rss" xmlUrl="https://asia.nikkei.com/rss/feed/nar"/>
+      <outline text="Korea Biomedical Review" title="Korea Biomedical Review" type="rss" xmlUrl="https://cdn.koreabiomed.com/rss/allArticle.xml"/>
+      <outline text="Business Korea (S1N17)" title="Business Korea (S1N17)" type="rss" xmlUrl="https://cdn.businesskorea.co.kr/rss/S1N17.xml"/>
+      <outline text="The Korea Herald - Business" title="The Korea Herald - Business" type="rss" xmlUrl="https://www.koreaherald.com/rss/kh_Business"/>
+      <outline text="Pharmazeutische Zeitung" title="Pharmazeutische Zeitung" type="rss" xmlUrl="https://www.pharmazeutische-zeitung.de/fileadmin/rss/pz_online_rss.php"/>
+      <outline text="Pharma Fakten" title="Pharma Fakten" type="rss" xmlUrl="https://pharma-fakten.de/news/feed/"/>
+      <outline text="Canadian Pharma Journal (SAGE)" title="Canadian Pharma Journal (SAGE)" type="rss" xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=cph&amp;type=axatoc&amp;feed=rss"/>
+      <outline text="PharmaJapan" title="PharmaJapan" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/17013159397507437844"/>
+      <outline text="PharmaDJ" title="PharmaDJ" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/3155300502676726145"/>
+      <outline text="DrugTimes China" title="DrugTimes China" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/2258314522122100457"/>
+      <outline text="Pharma in Focus" title="Pharma in Focus" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/8688624858019190382"/>
+      <outline text="Australian Journal of Pharmacy (AJP)" title="Australian Journal of Pharmacy (AJP)" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/3155300502676726533"/>
+      <outline text="Innovative Medicines Canada Newsroom" title="Innovative Medicines Canada Newsroom" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/15675165075713247606"/>
+      <outline text="Canadian Healthcare Technology" title="Canadian Healthcare Technology" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/11998038151211693640"/>
+      <outline text="HSJ" title="HSJ" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/3155300502676726471"/>
+      <outline text="Le Quotidien du Médecin" title="Le Quotidien du Médecin" type="rss" xmlUrl="https://www.google.com/alerts/feeds/12003903033305433051/15675165075713245429"/>
+    </outline>
+    <outline text="Literature - PubMed Feeds" title="Literature - PubMed Feeds">
+      <outline text="Pubmed (Resmetirom OR MGL-3196 OR VIA-3196)" title="Pubmed (Resmetirom OR MGL-3196 OR VIA-3196)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1hwQrn1DrkWUI01xVO0j0IYbmuAig9Hwb4d_t_1pMVFYiXKYRP/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231228002721"/>
+      <outline text="Pubmed (Ozempic OR Semaglutide OR NN-9535 OR NN9535 OR NN 9535) AND (MASH OR NAFLD OR NASH OR liver)" title="Pubmed (Ozempic OR Semaglutide OR NN-9535 OR NN9535 OR NN 9535) AND (MASH OR NAFLD OR NASH OR liver)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1zgVIM6O_FpuGi2IZFMx7GzMNWA0H5jecfa72FLLF-NLzDAQjg/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000725"/>
+      <outline text="Pubmed (Tirzepatide OR Zepbound OR Mounjaro OR LY-3298176 OR LY3298176) AND (MASH OR NASH OR MASLD OR liver)" title="Pubmed (Tirzepatide OR Zepbound OR Mounjaro OR LY-3298176 OR LY3298176) AND (MASH OR NASH OR MASLD OR liver)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1Lw5S2pLnrWAFVRYRNRvFBKTrVmaejRKZU3_HYAbDWBJRJaw2S/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001156"/>
+      <outline text="Pubmed (Retatrutide OR LY-3437943 OR LY3437943) AND (MASH OR NASH OR MASLD OR liver)" title="Pubmed (Retatrutide OR LY-3437943 OR LY3437943) AND (MASH OR NASH OR MASLD OR liver)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1LyCSa7Du4sPC-tFCbD9MBwghu5ZHJozFUuHI2MS-LI1j6a57I/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001303"/>
+      <outline text="Pubmed (Efruxifermin OR AKR-001 OR AKR001 OR AMG-876 OR AMG876)" title="Pubmed (Efruxifermin OR AKR-001 OR AKR001 OR AMG-876 OR AMG876)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1xsH31AbM3IJIHMvkO-xUHOXCvBCtuf677Db1MsywgkO7CLsah/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000837"/>
+      <outline text="Pubmed (Pegozafermin OR BIO-89-100 OR BIO89-100 OR TEV-47948)" title="Pubmed (Pegozafermin OR BIO-89-100 OR BIO89-100 OR TEV-47948)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1T3bNCPfE-4oTWpo2UvFXditZGZ1QlC5CPhYP8Zh_U16Z2rMsf/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000908"/>
+      <outline text="Pubmed (BOS580 OR BOS-580 OR Efimosfermin)" title="Pubmed (BOS580 OR BOS-580 OR Efimosfermin)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1bmzyevNxekyWKhk84IX7l2CUDjE1pkOMsmVSwR3iyZzHTFsLH/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001323"/>
+      <outline text="Pubmed (Lanifibranor OR IVA-337 OR IVA377)" title="Pubmed (Lanifibranor OR IVA-337 OR IVA377)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1NqsX9BbHlDvgR7lehDGIhkQjLtZbzXaP05SzK7_RKF5B_fslY/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000653"/>
+      <outline text="Pubmed (Pemvidutide OR ALT-801 OR ALT801 OR SP-1373)" title="Pubmed (Pemvidutide OR ALT-801 OR ALT801 OR SP-1373)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1tIHruhjOFoXDEiRN-1g_PQjsxt1FIsUB0cD0Q407KuFdtYY4i/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001221"/>
+      <outline text="Pubmed (Efocipegtrutide OR HM15211 OR HM-15211) AND (MASH OR NASH OR NAFLD OR liver)" title="Pubmed (Efocipegtrutide OR HM15211 OR HM-15211) AND (MASH OR NASH OR NAFLD OR liver)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1l1vNBYu_ed5RIBM3xeZjx-ix7cexmhonCbQQ4Uf2BiMdJJsD4/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001403"/>
+      <outline text="Pubmed (Efinopegdutide OR MK-6024 OR MK6024 OR HM12525A)" title="Pubmed (Efinopegdutide OR MK-6024 OR MK6024 OR HM12525A)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1PiNK1f9IykKQIKubMfnELKoEKkvdl8T2aqvNJuVEU8RcLTsGD/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001243"/>
+      <outline text="Pubmed (VK2809 OR VK-2809 OR MB-07811)" title="Pubmed (VK2809 OR VK-2809 OR MB-07811)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/10osTANo011BmV8sQRLWIuPEkH32xRKSYWU4RQpULcd1iXoEg_/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001111"/>
+      <outline text="Pubmed (Miricorilant OR CORT118335 OR CORT-118335)" title="Pubmed (Miricorilant OR CORT118335 OR CORT-118335)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1lClT3-kMn75C0SONo1lzfl9YB0Ilia3_be_JtELCYbOAD3YdR/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001452"/>
+      <outline text="Pubmed (Denifanstat OR TVB-2640 OR TVB2640 OR ASC40)" title="Pubmed (Denifanstat OR TVB-2640 OR TVB2640 OR ASC40)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWST6frgvztc_Qk91QsZNMkI6Z2zi2cVk2hD3U5gI_/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001042"/>
+      <outline text="Pubmed (cagrilintide OR AM-833 OR AM833 OR CagriSema) AND (MASH OR MASLD OR NAFLD OR liver)" title="Pubmed (cagrilintide OR AM-833 OR AM833 OR CagriSema) AND (MASH OR MASLD OR NAFLD OR liver)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1671MaA5CeAL2o8uhgtntcfFPUuDoU5Cjllty4RDwutNdzQoWc/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000752"/>
+      <outline text="Pubmed (Rencofilstat OR CRV-431 OR CRV431)" title="Pubmed (Rencofilstat OR CRV-431 OR CRV431)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1XCi2Dznx-zLY-Z-5IFgqFTf7rca8adVoTmC0ItCbLZs-4f5N0/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001133"/>
+      <outline text="Pubmed (TERN-501 OR TERN501 OR TERN-101 OR TERN101)" title="Pubmed (TERN-501 OR TERN501 OR TERN-101 OR TERN101)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1toH0ZWNzwdrzT_lGDz9jVAjhCUyarxysmk8cuLT-cjHR2iQ_i/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001422"/>
+      <outline text="Pubmed (Cilofexor OR GS-9674 OR GS9674)" title="Pubmed (Cilofexor OR GS-9674 OR GS9674)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1BE6Yf6ex8r-DSYMJtGZLzYYnvj6-6RApRN_lW7WGAFZSdVU86/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229000819"/>
+      <outline text="Pubmed (AZD2693 OR AZD-2693 OR ION839)" title="Pubmed (AZD2693 OR AZD-2693 OR ION839)" type="rss" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/12CQgEfkYEa5eYrg3wGXlppAaudw-jExu-pHURp6bJ6MUqdQnx/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20231229001344"/>
+    </outline>
+    <outline text="MOA - Class Google Alerts" title="MOA - Class Google Alerts">
+      <outline text="Google Alert - THR-beta agonist (Thyroid hormone receptor beta)" title="Google Alert - THR-beta agonist (Thyroid hormone receptor beta)" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/11411414708953725860"/>
+      <outline text="Google Alert - FGF21 class (human FGF21 agonist)" title="Google Alert - FGF21 class (human FGF21 agonist)" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/11411414708953723034"/>
+      <outline text="Google Alert - FGF21 / NNC0194-0499" title="Google Alert - FGF21 / NNC0194-0499" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/11062580051930330407"/>
+      <outline text="Google Alert - GLP-1/GIP receptor agonists class" title="Google Alert - GLP-1/GIP receptor agonists class" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/12459911695766105101"/>
+      <outline text="Google Alert - GLP-1/GCG receptor agonist class" title="Google Alert - GLP-1/GCG receptor agonist class" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/11337453776307781575"/>
+      <outline text="Google Alert - PPAR agonist class" title="Google Alert - PPAR agonist class" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/4729683763622292879"/>
+      <outline text="Google Alert - Nonsteroidal glucocorticoid receptor modulator (SGRM)" title="Google Alert - Nonsteroidal glucocorticoid receptor modulator (SGRM)" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/10733840094477434482"/>
+      <outline text="Google Alert - Ketohexokinase inhibitor" title="Google Alert - Ketohexokinase inhibitor" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/14515047259265271071"/>
+      <outline text="Google Alert - GPR84 Antagonist" title="Google Alert - GPR84 Antagonist" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/16182549096083395573"/>
+      <outline text="Google Alert - CHIT1 Inhibitor" title="Google Alert - CHIT1 Inhibitor" type="rss" xmlUrl="https://www.google.co.in/alerts/feeds/10060412088638600386/15949644705482938266"/>
+    </outline>
+  </body>
+</opml>

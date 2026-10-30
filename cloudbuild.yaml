@@ -1,0 +1,72 @@
+# CompetePulse Google Cloud Build deployment pipeline
+# Builds backend/ and frontend/ as separate container images and deploys each to Cloud Run.
+
+substitutions:
+  _GCP_PROJECT: competepulse-prod
+  _REGION: us-central1
+  _REPO: cloud-run-source-deploy
+  _BACKEND_SERVICE: competepulse-backend
+  _FRONTEND_SERVICE: competepulse-frontend
+
+images:
+  - '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/backend:$SHORT_SHA'
+  - '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/frontend:$SHORT_SHA'
+
+steps:
+  - id: build-backend
+    name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - -t
+      - '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/backend:$SHORT_SHA'
+      - ./backend
+
+  - id: build-frontend
+    name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - -t
+      - '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/frontend:$SHORT_SHA'
+      - ./frontend
+
+  - id: push-backend
+    name: gcr.io/cloud-builders/docker
+    args: ['push', '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/backend:$SHORT_SHA']
+    waitFor: ['build-backend']
+
+  - id: push-frontend
+    name: gcr.io/cloud-builders/docker
+    args: ['push', '${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/frontend:$SHORT_SHA']
+    waitFor: ['build-frontend']
+
+  - id: deploy-backend
+    name: gcr.io/google.com/cloudsdktool/cloud-sdk:slim
+    entrypoint: gcloud
+    args:
+      - run
+      - deploy
+      - '${_BACKEND_SERVICE}'
+      - '--project=${_GCP_PROJECT}'
+      - '--image=${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/backend:$SHORT_SHA'
+      - '--region=${_REGION}'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--cpu=2'
+      - '--memory=2Gi'
+      - '--timeout=1800'
+    waitFor: ['push-backend']
+
+  - id: deploy-frontend
+    name: gcr.io/google.com/cloudsdktool/cloud-sdk:slim
+    entrypoint: gcloud
+    args:
+      - run
+      - deploy
+      - '${_FRONTEND_SERVICE}'
+      - '--project=${_GCP_PROJECT}'
+      - '--image=${_REGION}-docker.pkg.dev/${_GCP_PROJECT}/${_REPO}/frontend:$SHORT_SHA'
+      - '--region=${_REGION}'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars=BACKEND_URL=https://${_BACKEND_SERVICE}-${_GCP_PROJECT}.${_REGION}.run.app'
+    waitFor: ['push-frontend']

@@ -1,0 +1,68 @@
+{
+  "_comment": "Settings for draft_morning_update.py and Run_Agent.py. The mail is only ever DRAFTED (saved to Outlook Drafts / written to disk) -- it is never sent automatically. subject_template/intro_line use a {slot} placeholder resolved to 'Morning' or 'Evening' at run time (see slot_cutoff_hour_ist and --slot). Item selection is deliberately NOT priority-based. Volume is controlled by source_denylist, the drafting agent's on-topic/credibility/freshness gate, and max_items_total.",
+  "greeting_name": "Elena",
+  "subject_template": "{slot} Update: {date}",
+  "date_format": "%d %b %Y",
+  "intro_line": "{slot} monitoring has been completed, and the identified updates are summarized below.",
+  "slot_cutoff_hour_ist": 16,
+  "_comment_lookback": "How far back each slot's RSS extraction reaches, in hours. The Morning run happens around midday IST and must cover the previous US business evening. The two windows overlap on purpose: the triage checkpoint makes re-seen rows free, and mailed_items.json stops them being mailed twice.",
+  "lookback_hours_by_slot": {
+    "Morning": 20,
+    "Evening": 12
+  },
+  "to": [
+    "dr.elena.rostova@novabiopharma-ci.com"
+  ],
+  "cc": [
+    "jordan.vance@evalueserve.com",
+    "taylor.hayes@evalueserve.com",
+    "morgan.reed@evalueserve.com",
+    "ci.automation@evalueserve.com"
+  ],
+  "consultant": {
+    "name": "Dr. Alexander Morgan",
+    "title": "Executive CI Director (LSHC Practice)",
+    "org": "Evalueserve",
+    "phone": "+1 (617) 555-0198",
+    "closing": "Thanks & Regards,"
+  },
+  "section_order": [
+    "MASH/MASLD",
+    "ALD/MetALD",
+    "Other"
+  ],
+  "section_disclaimers": {
+    "Other": "Updates reported under this section will not be included in monthly newsletter or disseminated as an alert"
+  },
+  "mail_excluded_hosts": [
+    "clinicaltrials.gov",
+    "clinicaltrialsregister.eu"
+  ],
+  "drop_dispositions": [
+    "No Action"
+  ],
+  "caps": {
+    "max_items_total": 7,
+    "max_items_per_section": 4
+  },
+  "preferred_sources": [
+    "clinicaltrials.gov",
+    "sec.gov",
+    "fda.gov",
+    "ema.europa.eu",
+    "pmda.go.jp",
+    "globenewswire.com",
+    "businesswire.com",
+    "prnewswire.com",
+    "nature.com",
+    "thelancet.com",
+    "healio.com"
+  ],
+  "source_denylist": [
+    "marketscreener.com",
+    "investing.com",
+    "seekingalpha.com",
+    "fool.com",
+    "finviz.com"
+  ]
+}

@@ -1,0 +1,63 @@
+:root {
+  --ev-purple: #43224d;
+  --ev-dark-purple: #301038;
+  --ev-red: #e0044e;
+  --ev-gray: #4c4c4d;
+  --ev-white: #ffffff;
+  --ev-canvas: #f4f3f6;
+  --ev-surface2: #f9f8fa;
+  --ev-surface3: #f0eef3;
+  --ev-outline: #dcd8e0;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #dcd8e0;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8f8996;
+}
+
+/* Global button reset */
+button {
+  font-family: inherit;
+  transition: all 0.15s ease-in-out;
+}
+
+button:focus-visible {
+  outline: 2px solid #43224d;
+  outline-offset: 2px;
+}
+
+/* Table styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}

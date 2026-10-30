@@ -1,0 +1,103 @@
+{
+  "_comment": "Settings for draft_morning_update.py and Run_Agent.py. The mail is only ever DRAFTED (saved to Outlook Drafts / written to disk) -- it is never sent automatically. subject_template/intro_line use a {slot} placeholder resolved to 'Morning' or 'Evening' at run time (see slot_cutoff_hour_ist and --slot). Item selection is deliberately NOT priority-based -- see the module docstring in draft_morning_update.py for the measurement that shows why. Volume is controlled by source_denylist, the drafting agent's on-topic/credibility/freshness gate, and max_items_total.",
+  "greeting_name": "Ankur",
+  "subject_template": "{slot} Update: {date}",
+  "date_format": "%d %b %Y",
+  "intro_line": "{slot} monitoring has been completed, and the identified updates are summarized below.",
+  "slot_cutoff_hour_ist": 16,
+  "_comment_lookback": "How far back each slot's RSS extraction reaches, in hours. The Morning run happens around midday IST and must cover the previous US business evening -- run_extraction's old 'today 00:00 -> now' default is why overnight items were missing from the corpus. The two windows overlap on purpose: the triage checkpoint makes re-seen rows free, and mailed_items.json stops them being mailed twice.",
+  "lookback_hours_by_slot": {
+    "Morning": 20,
+    "Evening": 12
+  },
+  "to": [
+    "ankur.ranjan@boehringer-ingelheim.com"
+  ],
+  "cc": [
+    "Megha.Tharad@evalueserve.com",
+    "Vasundra.Puri@evalueserve.com",
+    "Aditya.Chatterjee@evalueserve.com",
+    "aditya.chatterjee.ext@boehringer-ingelheim.com",
+    "richa.agrawal.ext@boehringer-ingelheim.com",
+    "himani.jain.ext@boehringer-ingelheim.com"
+  ],
+  "consultant": {
+    "name": "Aditya Chatterjee",
+    "title": "Senior Consultant \u2013 Insights & Advisory (LSHC)",
+    "org": "Evalueserve",
+    "phone": "+91 8447574178",
+    "closing": "Thanks & Regards,"
+  },
+  "_comment_section_order": "Section names and order match the real sent mails. NOTE the order of the first name: the consultant switched from 'MASLD/MASH' to 'MASH/MASLD' on 24 Jul 2026 and both later mails use it, so MASH/MASLD is the current convention. 'Obesity / T2D' was dropped entirely on 03 Aug 2026 -- see _comment_obesity_removed below. AUD is deliberately NOT listed: the client parked it as an indication, so the drafting agent folds AUD items under MASH/MASLD (header rendered 'MASH/MASLD/AUD' when any are present) and downranks them via AUD_RANK_PENALTY -- matching the 29 Jul Morning mail (no AUD) and the 28 Jul Evening mail (combined MASH/MASLD/AUD).",
+  "_comment_obesity_removed": "'Obesity / T2D' was REMOVED from scope on 03 Aug 2026: the client no longer wants obesity, T2D or weight-management updates in any form. The primary gate is the veto in rss_opml_common.py (EXCLUSION_KEYWORDS / obesity_veto), which keeps these items out of the Priority sheet at extraction so they never reach dedup, triage or drafting. draft_morning_update.py drops any that still label themselves 'Obesity / T2D' rather than rerouting them to 'Other'. To restore the section, re-add it here AND revert those two scripts. To merely soften the veto, set OBESITY_VETO_OVERRIDDEN_BY_MASH = True in rss_opml_common.py.",
+  "section_order": [
+    "MASH/MASLD",
+    "ALD/MetALD",
+    "Other"
+  ],
+  "section_disclaimers": {
+    "Other": "Updates reported under this section will not be included in monthly newsletter or disseminated as an alert"
+  },
+  "_comment_mail_excluded_hosts": "Hosts whose updates are owned by a SEPARATE tracker script with its own change-diff logic, so they must never be drafted into this mail. ClinicalTrials.gov registry updates are written up from that tracker: in the real mails they use a 'Field: old value -> new value' change-diff format (e.g. 'Trial status: Recruiting -> Active, not recruiting') that this agent has no before/after data to produce. Matched on the host or any subdomain. Deliberately NOT source_denylist: those hosts are junk, whereas these are in scope but owned elsewhere -- and clinicaltrials.gov must stay in preferred_sources so it still wins de-duplication upstream.",
+  "mail_excluded_hosts": [
+    "clinicaltrials.gov",
+    "clinicaltrialsregister.eu"
+  ],
+  "_comment_drop_dispositions": "Triage dispositions dropped before any API spend. 'No Action' is triage's own bottom bucket -- 'not even worth tracking'. Verified against the 2026-07-23 mail: every item the consultant actually sent was 'Tracker Only', none were 'No Action', and dropping this bucket cut that run's paid gate from 231 to 96 candidates. Do NOT add 'Tracker Only' here: that is where the real mail items live.",
+  "drop_dispositions": [
+    "No Action"
+  ],
+  "_comment_caps": "Measured across the 46 real mails in the 26 Jun - 27 Jul thread: 1 to 7 items per mail, median 3.5, mean 3.7 -- and that count still includes the ClinicalTrials.gov items now excluded via mail_excluded_hosts, so the true non-CT figure is ~3. The old cap of 8 was far above reality and was binding (it cut 24 items on the 2026-07-28 run). Hard ceilings applied after ranking; everything cut is written to the run's *_selection_log.csv.",
+  "max_items_total": 5,
+  "max_items_per_section": 4,
+  "_comment_denylist": "Hosts that never carry a citable primary update for this scope, dropped before any API spend. Matched on the host itself or any subdomain of it. Seeded from what the 2026-07-22..24 corpora actually contained: social/video platforms, share-price and retail-investor sites, and content farms -- several of which triage had wrongly rated High priority / Standalone Alert.",
+  "source_denylist": [
+    "youtube.com",
+    "youtu.be",
+    "reddit.com",
+    "instagram.com",
+    "facebook.com",
+    "twitter.com",
+    "x.com",
+    "tiktok.com",
+    "pinterest.com",
+    "moomoo.com",
+    "tradersunion.com",
+    "247wallst.com",
+    "zonebourse.com",
+    "marketscreener.com",
+    "sahmcapital.com",
+    "investing.com",
+    "fool.com",
+    "prodietscience.com",
+    "mapaasociacionismocanarias.com",
+    "revistaeduweb.org",
+    "revistainfectio.org",
+    "actamedica.org",
+    "doctormedica.co",
+    "gabify.life"
+  ],
+  "_comment_preferred": "When the same story is captured from several sources, the copy on one of these hosts wins the de-duplication.",
+  "preferred_sources": [
+    "clinicaltrials.gov",
+    "fda.gov",
+    "ema.europa.eu",
+    "globenewswire.com",
+    "businesswire.com",
+    "prnewswire.com",
+    "nature.com",
+    "thelancet.com",
+    "nejm.org",
+    "jamanetwork.com",
+    "link.springer.com",
+    "reuters.com",
+    "endpoints.news",
+    "fiercebiotech.com",
+    "fiercepharma.com",
+    "statnews.com",
+    "biospace.com"
+  ],
+  "processor": "base",
+  "create_outlook_draft": true,
+  "display_outlook_draft": true
+}

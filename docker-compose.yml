@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8792:8792"
+    volumes:
+      - ./backend/data:/app/data
+    environment:
+      - PORT=8792
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    environment:
+      - PORT=80
+      - BACKEND_URL=http://backend:8792
+    depends_on:
+      - backend

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1180" width="1920" height="1180" style="background-color:#ffffff; font-family:'Segoe UI', Calibri, Helvetica, Arial, sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-2%" y="-2%" width="108%" height="108%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#43224d" flood-opacity="0.06"/>
+    </filter>
+    <filter id="sub-card-shadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.05"/>
+    </filter>
+    <marker id="arrow-purple" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M 0,1 L 5,3 L 0,5 Z" fill="#43224d"/>
+    </marker>
+    <marker id="arrow-red" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M 0,1 L 5,3 L 0,5 Z" fill="#e0044e"/>
+    </marker>
+  </defs>
+
+  <!-- White background -->
+  <rect x="0" y="0" width="1920" height="1180" fill="#ffffff"/>
+
+  <!-- Header brand bar -->
+  <rect x="0" y="0" width="1920" height="12" fill="#43224d"/>
+  <rect x="0" y="12" width="1920" height="4" fill="#e0044e"/>
+
+  <!-- Title -->
+  <text x="50" y="78" font-size="34" font-weight="800" fill="#43224d" letter-spacing="0.5">Competitive Intelligence News Monitoring Agent (End to End)</text>
+  <text x="50" y="105" font-size="19" font-weight="700" fill="#e0044e">From RSS Alerts to Automated Mail Drafting</text>
+  <text x="50" y="130" font-size="16" font-weight="400" fill="#666666">Run_EndToEnd.py orchestrator · RSS/OPML Ingestion · Link Dedup · Parallel AI Triage · Provenance-Gated Mail Drafting · Tunable to any industry or space</text>
+
+  <!-- Logo badge -->
+  <rect x="1710" y="45" width="160" height="40" rx="4" fill="#f8f4f9" stroke="#43224d" stroke-width="1"/>
+  <text x="1790" y="71" font-size="16" font-weight="800" fill="#43224d" text-anchor="middle" letter-spacing="1">EVALUESERVE</text>
+
+  <!-- Top divider -->
+  <line x1="50" y1="150" x2="1870" y2="150" stroke="#eaeaea" stroke-width="1.5"/>
+
+  <!-- Connector arrows between phase cards -->
+  <path d="M 360,420 L 400,420" fill="none" stroke="#43224d" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+  <path d="M 700,420 L 740,420" fill="none" stroke="#43224d" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+  <path d="M 1040,420 L 1080,420" fill="none" stroke="#e0044e" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M 1380,420 L 1420,420" fill="none" stroke="#e0044e" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M 1720,420 L 1760,420" fill="none" stroke="#43224d" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 1 — Launch & Preflight -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(50, 180)">
+    <rect x="0" y="0" width="310" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="310" height="6" rx="6" fill="#43224d"/>
+
+    <text x="25" y="45" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">PHASE 1</text>
+    <text x="25" y="75" font-size="24" font-weight="800" fill="#43224d">Launch &amp; Preflight</text>
+    <text x="25" y="100" font-size="14" fill="#666666">API Key · Folders · Run Options</text>
+
+    <rect x="185" y="10" width="105" height="34" rx="4" fill="#f8f4f9" stroke="#43224d" stroke-width="1"/>
+    <text x="237" y="24" font-size="12" font-weight="800" fill="#43224d" text-anchor="middle">LOCAL</text>
+    <text x="237" y="38" font-size="10" fill="#43224d" text-anchor="middle">Orchestrator</text>
+
+    <line x1="25" y1="125" x2="285" y2="125" stroke="#f0f0f0" stroke-width="1.5"/>
+
+    <rect x="25" y="145" width="260" height="24" rx="4" fill="#f8f4f9"/>
+    <text x="35" y="162" font-size="12" font-family="monospace" font-weight="700" fill="#43224d">python Run_EndToEnd.py</text>
+
+    <!-- 1A -->
+    <rect x="25" y="190" width="260" height="128" rx="4" fill="#fcfcfc" stroke="#e0e0e0" stroke-width="1" filter="url(#sub-card-shadow)"/>
+    <rect x="25" y="190" width="4" height="128" fill="#43224d" rx="2"/>
+    <text x="45" y="218" font-size="16" font-weight="800" fill="#43224d">1A. Up-Front Run Options</text>
+    <text x="45" y="242" font-size="13" fill="#555555">• Run Stage 4? (y/n → dry-run)</text>
+    <text x="45" y="260" font-size="13" fill="#555555">• Output: .docx / Outlook / both</text>
+    <text x="45" y="278" font-size="13" fill="#555555">• --processor lite | base | core</text>
+    <text x="45" y="296" font-size="13" fill="#555555">• --skip-mail-draft stops at Stage 3</text>
+    <text x="45" y="313" font-size="12" fill="#999999">Decided before you walk away</text>
+
+    <!-- 1B -->
+    <rect x="25" y="333" width="260" height="112" rx="4" fill="#fcfcfc" stroke="#e0e0e0" stroke-width="1" filter="url(#sub-card-shadow)"/>
+    <rect x="25" y="333" width="4" height="112" fill="#43224d" rx="2"/>
+    <text x="45" y="361" font-size="16" font-weight="800" fill="#43224d">1B. API Key Preflight</text>
+    <rect x="35" y="374" width="230" height="22" rx="3" fill="#f8f4f9"/>
+    <text x="45" y="389" font-size="11.5" font-family="monospace" font-weight="700" fill="#43224d">Parallel API Key.txt</text>
+    <text x="45" y="412" font-size="13" fill="#555555">• Warns before a 10-min extraction</text>
+    <text x="45" y="430" font-size="12" fill="#999999">Optional continue: Stages 1–2 only</text>
+
+    <!-- 1C -->
+    <rect x="25" y="460" width="260" height="155" rx="4" fill="#fcfcfc" stroke="#e0e0e0" stroke-width="1" filter="url(#sub-card-shadow)"/>
+    <rect x="25" y="460" width="4" height="155" fill="#43224d" rx="2"/>
+    <text x="45" y="488" font-size="16" font-weight="800" fill="#43224d">1C. Environment Setup</text>
+    <text x="45" y="512" font-size="13" fill="#555555">• Creates all six output folders</text>
+    <text x="45" y="530" font-size="13" fill="#555555">• Clears stale window-state file</text>
+    <text x="45" y="548" font-size="13" fill="#555555">• Child env: PYTHONIOENCODING=utf-8</text>
+    <text x="45" y="566" font-size="13" fill="#555555">• ENDTOEND_ORCHESTRATED=1 (no</text>
+    <text x="60" y="583" font-size="13" fill="#555555">"Press Enter" pause per stage)</text>
+    <text x="45" y="604" font-size="12" fill="#999999">Stages 1–3 fatal · Stage 4 non-fatal</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 2 — Stage 1: RSS Extraction -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(400, 180)">
+    <rect x="0" y="0" width="300" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="300" height="6" rx="6" fill="#43224d"/>
+
+    <text x="25" y="45" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">PHASE 2 · STAGE 1</text>
+    <text x="25" y="75" font-size="24" font-weight="800" fill="#43224d">RSS Extraction</text>
+    <text x="25" y="100" font-size="14" fill="#666666">Five OPML feed pipelines</text>
+
+    <rect x="195" y="10" width="90" height="34" rx="4" fill="#f8f4f9" stroke="#43224d" stroke-width="1"/>
+    <text x="240" y="24" font-size="12" font-weight="800" fill="#43224d" text-anchor="middle">INGEST</text>
+    <text x="240" y="38" font-size="10" fill="#43224d" text-anchor="middle">Max Recall</text>
+
+    <line x1="25" y1="125" x2="275" y2="125" stroke="#f0f0f0" stroke-width="1.5"/>
+
+    <rect x="25" y="145" width="230" height="24" rx="4" fill="#f8f4f9"/>
+    <text x="35" y="162" font-size="12" font-family="monospace" font-weight="700" fill="#43224d">Run_All_RSS.py</text>
+
+    <rect x="25" y="195" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="201" font-size="15" font-weight="700" fill="#333333">Interactive Menu [1–9, A, B, H]</text>
+    <text x="40" y="223" font-size="13" fill="#555555">• ClinicalTrials.gov (12 workers)</text>
+    <text x="40" y="241" font-size="13" fill="#555555">• Google Alerts (16 workers)</text>
+    <text x="40" y="259" font-size="13" fill="#555555">• Company Alerts — IR/PR + alerts</text>
+    <text x="40" y="277" font-size="13" fill="#555555">• Media Aggregators — wires, PubMed</text>
+    <text x="40" y="295" font-size="13" fill="#555555">• Regulatory — FDA, EMA, PMDA,</text>
+    <text x="55" y="312" font-size="13" fill="#555555">TGA, MHRA, NMPA</text>
+    <text x="40" y="331" font-size="12" fill="#999999">[H] Health Check = connectivity only</text>
+
+    <line x1="25" y1="348" x2="275" y2="348" stroke="#f0f0f0"/>
+
+    <rect x="25" y="366" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="372" font-size="15" font-weight="700" fill="#333333">Date Filter (asked once)</text>
+    <text x="40" y="394" font-size="13" fill="#555555">• Start/End applied to every feed</text>
+    <text x="40" y="412" font-size="13" fill="#555555">• Keyword match + obesity veto</text>
+    <text x="40" y="430" font-size="13" fill="#555555">• Indication column dropped for</text>
+    <text x="55" y="447" font-size="13" fill="#555555">company / media / regulatory sets</text>
+
+    <line x1="25" y1="465" x2="275" y2="465" stroke="#f0f0f0"/>
+
+    <rect x="25" y="483" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="489" font-size="15" font-weight="700" fill="#333333">Handoff</text>
+    <rect x="25" y="503" width="250" height="62" rx="4" fill="#f8f4f9" stroke="#43224d" stroke-width="1"/>
+    <text x="35" y="523" font-size="13" font-weight="800" fill="#43224d">_extraction_window_state.json</text>
+    <text x="35" y="541" font-size="12" fill="#555555">Window START persisted for Stage 4's</text>
+    <text x="35" y="557" font-size="12" fill="#555555">provenance cutoff (no lookback guess).</text>
+
+    <text x="25" y="590" font-size="13" font-weight="700" fill="#43224d">build_combined_report()</text>
+    <text x="25" y="610" font-size="12" fill="#999999">→ Output_Combined/Combined_Report_*.xlsx</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 3 — Stage 2: Link Deduplication -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(740, 180)">
+    <rect x="0" y="0" width="300" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="300" height="6" rx="6" fill="#43224d"/>
+
+    <text x="25" y="45" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">PHASE 3 · STAGE 2</text>
+    <text x="25" y="75" font-size="24" font-weight="800" fill="#43224d">Link Dedup</text>
+    <text x="25" y="100" font-size="14" fill="#666666">Resolve, canonicalise, collapse</text>
+
+    <rect x="195" y="10" width="90" height="34" rx="4" fill="#f8f4f9" stroke="#43224d" stroke-width="1"/>
+    <text x="240" y="24" font-size="12" font-weight="800" fill="#43224d" text-anchor="middle">DEDUP</text>
+    <text x="240" y="38" font-size="10" fill="#43224d" text-anchor="middle">Free · Local</text>
+
+    <line x1="25" y1="125" x2="275" y2="125" stroke="#f0f0f0" stroke-width="1.5"/>
+
+    <rect x="25" y="145" width="230" height="24" rx="4" fill="#f8f4f9"/>
+    <text x="35" y="162" font-size="12" font-family="monospace" font-weight="700" fill="#43224d">dedupe_source_urls.py</text>
+
+    <rect x="25" y="195" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="201" font-size="15" font-weight="700" fill="#333333">Resolve Real URLs</text>
+    <text x="40" y="223" font-size="13" fill="#555555">• Unwraps google.com/url?…&amp;url=…</text>
+    <text x="40" y="241" font-size="13" fill="#555555">• Reads the "Priority" sheet only</text>
+
+    <line x1="25" y1="259" x2="275" y2="259" stroke="#f0f0f0"/>
+
+    <rect x="25" y="277" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="283" font-size="15" font-weight="700" fill="#333333">Canonical Key</text>
+    <text x="40" y="305" font-size="13" fill="#555555">• Strips utm_*, fbclid, gclid, ref…</text>
+    <text x="40" y="323" font-size="13" fill="#555555">• Same page ≠ two "unique" rows</text>
+
+    <line x1="25" y1="341" x2="275" y2="341" stroke="#f0f0f0"/>
+
+    <rect x="25" y="359" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="365" font-size="15" font-weight="700" fill="#333333">Near-Duplicate Titles</text>
+    <text x="40" y="387" font-size="13" fill="#555555">• Jaccard ≥ 0.60 on stop-worded</text>
+    <text x="55" y="404" font-size="13" fill="#555555">title tokens collapses syndication</text>
+    <text x="40" y="424" font-size="13" font-weight="700" fill="#e0044e">• Translated reruns NOT caught here</text>
+    <text x="40" y="442" font-size="12" fill="#999999">→ handled later by New/Old + denylist</text>
+
+    <line x1="25" y1="460" x2="275" y2="460" stroke="#f0f0f0"/>
+
+    <rect x="25" y="478" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="484" font-size="15" font-weight="700" fill="#333333">Output Shape</text>
+    <text x="40" y="506" font-size="13" fill="#555555">• Update_Title</text>
+    <text x="40" y="524" font-size="13" fill="#555555">• Summary_Payload</text>
+    <text x="40" y="542" font-size="13" fill="#555555">• Resolved_URL (hyperlinked)</text>
+    <text x="25" y="574" font-size="13" font-weight="700" fill="#43224d">Cheapest possible filter</text>
+    <text x="25" y="592" font-size="12" fill="#666666">Every row dropped here is a row</text>
+    <text x="25" y="608" font-size="12" fill="#666666">never paid for downstream.</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 4 — Stage 3: Parallel AI Triage -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(1080, 180)">
+    <rect x="0" y="0" width="300" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="300" height="6" rx="6" fill="#e0044e"/>
+
+    <text x="25" y="45" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">PHASE 4 · STAGE 3</text>
+    <text x="25" y="75" font-size="24" font-weight="800" fill="#e0044e">AI Triage</text>
+    <text x="25" y="100" font-size="14" fill="#666666">Parallel AI Task Group API</text>
+
+    <rect x="180" y="10" width="105" height="34" rx="4" fill="#fff0f4" stroke="#e0044e" stroke-width="1"/>
+    <text x="232" y="24" font-size="12" font-weight="800" fill="#e0044e" text-anchor="middle">BILLED</text>
+    <text x="232" y="38" font-size="10" fill="#e0044e" text-anchor="middle">1 call / row</text>
+
+    <line x1="25" y1="125" x2="275" y2="125" stroke="#f0f0f0" stroke-width="1.5"/>
+
+    <rect x="25" y="145" width="230" height="24" rx="4" fill="#fff0f4"/>
+    <text x="35" y="162" font-size="12" font-family="monospace" font-weight="700" fill="#e0044e">parallel_triage_agent.py</text>
+
+    <rect x="25" y="195" width="5" height="5" fill="#e0044e"/>
+    <text x="40" y="201" font-size="15" font-weight="700" fill="#333333">Pre-Spend Denylist</text>
+    <text x="40" y="223" font-size="13" fill="#555555">• source_denylist from</text>
+    <text x="55" y="240" font-size="13" fill="#555555">mail_settings.json (shared)</text>
+    <text x="40" y="258" font-size="13" fill="#555555">• Denylisted host = zero credit</text>
+
+    <line x1="25" y1="276" x2="275" y2="276" stroke="#f0f0f0"/>
+
+    <rect x="25" y="294" width="5" height="5" fill="#e0044e"/>
+    <text x="40" y="300" font-size="15" font-weight="700" fill="#333333">MASH CI Triage Rules</text>
+    <text x="40" y="322" font-size="13" fill="#555555">• Scope: MASH/MASLD, ALD/MetALD,</text>
+    <text x="55" y="339" font-size="13" fill="#555555">AUD, Obesity (NN / Lilly / Roche)</text>
+    <text x="40" y="357" font-size="13" fill="#555555">• Strict one-item grounding rule —</text>
+    <text x="55" y="374" font-size="13" fill="#555555">no recall from training data</text>
+    <text x="40" y="392" font-size="13" fill="#555555">• Priority · Disposition · Type ·</text>
+    <text x="55" y="409" font-size="13" fill="#555555">Rationale · Source Check</text>
+
+    <line x1="25" y1="427" x2="275" y2="427" stroke="#f0f0f0"/>
+
+    <rect x="25" y="445" width="5" height="5" fill="#e0044e"/>
+    <text x="40" y="451" font-size="15" font-weight="700" fill="#333333">Batch &amp; Poll</text>
+    <rect x="25" y="465" width="250" height="66" rx="4" fill="#fff0f4" stroke="#e0044e" stroke-width="1"/>
+    <text x="35" y="485" font-size="13" font-weight="800" fill="#e0044e">No checkpoint / no cache</text>
+    <text x="35" y="503" font-size="12" fill="#78350f">500-row chunks · 1800s wait · 4 retries.</text>
+    <text x="35" y="519" font-size="12" fill="#78350f">Any rerun re-submits and re-pays for all.</text>
+
+    <text x="25" y="551" font-size="13" font-weight="700" fill="#333333">Insights sheet audited</text>
+    <text x="25" y="571" font-size="12" fill="#666666">ERROR / NOT PROCESSED counts are</text>
+    <text x="25" y="587" font-size="12" fill="#666666">surfaced as a warning, not a crash.</text>
+    <text x="25" y="610" font-size="12" fill="#999999">→ Output_Triage_Agent/*_Triaged_*.xlsx</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 5 — Stage 4: Mail Drafting -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(1420, 180)">
+    <rect x="0" y="0" width="300" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="300" height="6" rx="6" fill="#e0044e"/>
+
+    <text x="25" y="45" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">PHASE 5 · STAGE 4</text>
+    <text x="25" y="75" font-size="24" font-weight="800" fill="#e0044e">Mail Drafting</text>
+    <text x="25" y="100" font-size="14" fill="#666666">Four-step selection · Never sends</text>
+
+    <rect x="180" y="10" width="105" height="34" rx="4" fill="#fff0f4" stroke="#e0044e" stroke-width="1"/>
+    <text x="232" y="24" font-size="12" font-weight="800" fill="#e0044e" text-anchor="middle">NON-FATAL</text>
+    <text x="232" y="38" font-size="10" fill="#e0044e" text-anchor="middle">Zero items = OK</text>
+
+    <line x1="25" y1="125" x2="275" y2="125" stroke="#f0f0f0" stroke-width="1.5"/>
+
+    <rect x="25" y="145" width="230" height="24" rx="4" fill="#fff0f4"/>
+    <text x="35" y="162" font-size="12" font-family="monospace" font-weight="700" fill="#e0044e">draft_morning_update.py</text>
+
+    <rect x="25" y="192" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="198" font-size="15" font-weight="700" fill="#333333">① prefilter_rows() — free</text>
+    <text x="40" y="220" font-size="13" fill="#555555">• Drops incomplete triage rows,</text>
+    <text x="55" y="237" font-size="13" fill="#555555">denylisted hosts, cross-source dupes</text>
+
+    <line x1="25" y1="253" x2="275" y2="253" stroke="#f0f0f0"/>
+
+    <rect x="25" y="271" width="5" height="5" fill="#e0044e"/>
+    <text x="40" y="277" font-size="15" font-weight="700" fill="#333333">② Provenance Pass</text>
+    <text x="40" y="299" font-size="13" fill="#555555">• One cheap call, NO source policy —</text>
+    <text x="55" y="316" font-size="13" fill="#555555">searches the open web for an earlier</text>
+    <text x="55" y="333" font-size="13" fill="#555555">copy of the same story</text>
+    <text x="40" y="351" font-size="13" fill="#555555">• derive_new_old() → gate drops</text>
+    <text x="55" y="368" font-size="13" fill="#555555">republications before any drafting</text>
+
+    <line x1="25" y1="384" x2="275" y2="384" stroke="#f0f0f0"/>
+
+    <rect x="25" y="402" width="5" height="5" fill="#e0044e"/>
+    <text x="40" y="408" font-size="15" font-weight="700" fill="#333333">③ Drafting Agent</text>
+    <text x="40" y="430" font-size="13" fill="#555555">• One call per survivor, pinned to</text>
+    <text x="55" y="447" font-size="13" fill="#555555">that row's own host</text>
+    <text x="40" y="465" font-size="13" fill="#555555">• Senior-Consultant voice, decision-</text>
+    <text x="55" y="482" font-size="13" fill="#555555">grade Morning / Evening Update entry</text>
+
+    <line x1="25" y1="498" x2="275" y2="498" stroke="#f0f0f0"/>
+
+    <rect x="25" y="516" width="5" height="5" fill="#43224d"/>
+    <text x="40" y="522" font-size="15" font-weight="700" fill="#333333">④ assemble_sections()</text>
+    <text x="40" y="544" font-size="13" fill="#555555">• AUD folded under MASH/MASLD</text>
+    <text x="40" y="562" font-size="13" fill="#555555">• dedupe_drafted + company penalty</text>
+    <text x="40" y="580" font-size="13" fill="#555555">• Caps per section &amp; total</text>
+    <text x="25" y="608" font-size="12" fill="#999999">Selection ignores triage Priority by design</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- PHASE 6 — Deliver -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(1760, 180)">
+    <rect x="0" y="0" width="110" height="640" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="110" height="6" rx="6" fill="#43224d"/>
+
+    <text x="20" y="45" font-size="12" font-weight="700" fill="#888888" letter-spacing="1">PHASE 6</text>
+    <text x="20" y="73" font-size="18" font-weight="800" fill="#43224d">Deliver</text>
+    <text x="20" y="92" font-size="12" fill="#666666">Draft + audit</text>
+
+    <line x1="15" y1="115" x2="95" y2="115" stroke="#f0f0f0"/>
+
+    <!-- Outlook draft -->
+    <rect x="15" y="135" width="80" height="90" rx="4" fill="#f8f4f9" stroke="#e0e0e0"/>
+    <rect x="15" y="135" width="4" height="90" fill="#43224d" rx="2"/>
+    <text x="55" y="160" font-size="13" font-weight="800" fill="#43224d" text-anchor="middle">Outlook</text>
+    <text x="55" y="180" font-size="10" fill="#666666" text-anchor="middle">UNSENT draft</text>
+    <text x="55" y="194" font-size="10" fill="#666666" text-anchor="middle">opens for</text>
+    <text x="55" y="208" font-size="10" fill="#666666" text-anchor="middle">review</text>
+
+    <!-- docx / htm / txt -->
+    <rect x="15" y="240" width="80" height="90" rx="4" fill="#f8f4f9" stroke="#e0e0e0"/>
+    <rect x="15" y="240" width="4" height="90" fill="#43224d" rx="2"/>
+    <text x="55" y="264" font-size="13" font-weight="800" fill="#43224d" text-anchor="middle">.docx</text>
+    <text x="55" y="283" font-size="10" fill="#666666" text-anchor="middle">plus .htm</text>
+    <text x="55" y="296" font-size="10" fill="#666666" text-anchor="middle">and .txt in</text>
+    <text x="55" y="309" font-size="10" fill="#666666" text-anchor="middle">Output_Mail_</text>
+    <text x="55" y="322" font-size="10" fill="#666666" text-anchor="middle">Draft</text>
+
+    <!-- Review workbook -->
+    <rect x="15" y="345" width="80" height="78" rx="4" fill="#fffbea" stroke="#e6c200"/>
+    <rect x="15" y="345" width="4" height="78" fill="#e6c200" rx="2"/>
+    <text x="55" y="367" font-size="11" font-weight="800" fill="#8a6d00" text-anchor="middle">Combined</text>
+    <text x="55" y="381" font-size="11" font-weight="800" fill="#8a6d00" text-anchor="middle">Review</text>
+    <text x="55" y="398" font-size="10" fill="#666666" text-anchor="middle">Every</text>
+    <text x="55" y="410" font-size="10" fill="#666666" text-anchor="middle">candidate's fate</text>
+
+    <!-- Complete badge -->
+    <circle cx="55" cy="470" r="22" fill="#43224d"/>
+    <path d="M 46,470 L 52,476 L 66,460" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <text x="55" y="515" font-size="13" font-weight="700" fill="#43224d" text-anchor="middle">Pipeline</text>
+    <text x="55" y="530" font-size="13" font-weight="700" fill="#43224d" text-anchor="middle">Complete</text>
+    <text x="55" y="550" font-size="10" fill="#666666" text-anchor="middle">Per-stage</text>
+    <text x="55" y="562" font-size="10" fill="#666666" text-anchor="middle">paths &amp;</text>
+    <text x="55" y="574" font-size="10" fill="#666666" text-anchor="middle">timings</text>
+    <text x="55" y="592" font-size="10" fill="#e0044e" text-anchor="middle" font-weight="700">Never sends</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- HOW IT WORKS — explainer band -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <g transform="translate(50, 850)">
+    <rect x="0" y="0" width="1820" height="240" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" filter="url(#card-shadow)"/>
+    <rect x="0" y="0" width="1820" height="6" rx="6" fill="#43224d"/>
+
+    <text x="25" y="40" font-size="13" font-weight="700" fill="#888888" letter-spacing="1">HOW IT WORKS</text>
+    <text x="25" y="68" font-size="22" font-weight="800" fill="#43224d">One Command, Four Chained Stages — Filter Cheaply First, Spend AI Credit Last</text>
+    <text x="25" y="92" font-size="14" fill="#666666">Every stage narrows the funnel before the next one pays for it: free local filtering runs first, one cheap provenance call gates the expensive drafting call, and the run ends with an unsent draft plus a full audit trail. Domain-agnostic: only the feed list and triage scope change per industry.</text>
+
+    <line x1="25" y1="108" x2="1795" y2="108" stroke="#f0f0f0"/>
+
+    <!-- Step blocks -->
+    <g transform="translate(25, 125)">
+      <rect x="0" y="0" width="430" height="98" rx="4" fill="#f8f4f9" stroke="#e8e0ec"/>
+      <rect x="0" y="0" width="4" height="98" fill="#43224d" rx="2"/>
+      <text x="20" y="25" font-size="14" font-weight="800" fill="#43224d">① Stage 1 — Ingest Wide</text>
+      <text x="20" y="48" font-size="12" fill="#555555">Up to five OPML pipelines (clinical trials, Google alerts, company</text>
+      <text x="20" y="66" font-size="12" fill="#555555">IR/PR, media aggregators, six regulators) are fetched in parallel</text>
+      <text x="20" y="82" font-size="12" fill="#555555">against one date window and merged into a single Combined_Report.</text>
+    </g>
+
+    <g transform="translate(475, 125)">
+      <rect x="0" y="0" width="430" height="98" rx="4" fill="#f8f4f9" stroke="#e8e0ec"/>
+      <rect x="0" y="0" width="4" height="98" fill="#43224d" rx="2"/>
+      <text x="20" y="25" font-size="14" font-weight="800" fill="#43224d">② Stage 2 — Collapse for Free</text>
+      <text x="20" y="48" font-size="12" fill="#555555">Google redirects are unwrapped, tracking parameters stripped, and</text>
+      <text x="20" y="66" font-size="12" fill="#555555">near-identical headlines collapsed at a 0.6 Jaccard threshold — all</text>
+      <text x="20" y="82" font-size="12" fill="#555555">locally, so no duplicate ever reaches a billed API call.</text>
+    </g>
+
+    <g transform="translate(925, 125)">
+      <rect x="0" y="0" width="430" height="98" rx="4" fill="#fff0f4" stroke="#f5c2cd"/>
+      <rect x="0" y="0" width="4" height="98" fill="#e0044e" rx="2"/>
+      <text x="20" y="25" font-size="14" font-weight="800" fill="#e0044e">③ Stage 3 — Triage Each Item Once</text>
+      <text x="20" y="48" font-size="12" fill="#555555">Surviving rows go to the Parallel AI Task Group API as one batch,</text>
+      <text x="20" y="66" font-size="12" fill="#555555">each scored on Priority, Disposition, Type and Rationale under a</text>
+      <text x="20" y="82" font-size="12" fill="#555555">strict one-item grounding rule. No checkpoint — a rerun re-pays.</text>
+    </g>
+
+    <g transform="translate(1375, 125)">
+      <rect x="0" y="0" width="420" height="98" rx="4" fill="#fff0f4" stroke="#f5c2cd"/>
+      <rect x="0" y="0" width="4" height="98" fill="#e0044e" rx="2"/>
+      <text x="20" y="25" font-size="14" font-weight="800" fill="#e0044e">④ Stage 4 — Gate, Draft &amp; Assemble</text>
+      <text x="20" y="48" font-size="12" fill="#555555">Relevance and freshness — not Priority — decide the mail. A cheap</text>
+      <text x="20" y="66" font-size="12" fill="#555555">open-web provenance check kills republications, then survivors are</text>
+      <text x="20" y="82" font-size="12" fill="#555555">drafted, ranked, capped and assembled into an UNSENT draft.</text>
+    </g>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- LEGEND -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <line x1="50" y1="1115" x2="1870" y2="1115" stroke="#eaeaea"/>
+  <rect x="50" y="1128" width="1500" height="28" rx="4" fill="#f8f4f9" stroke="#e8e0ec"/>
+  <text x="65" y="1146" font-size="12" font-weight="700" fill="#43224d">Processor Tiers (Parallel AI):</text>
+  <text x="225" y="1146" font-size="12" fill="#555555">lite $5 · base $10 (default) · core $25 per 1,000 rows</text>
+  <text x="565" y="1146" font-size="12" fill="#555555">| Purple = local &amp; free</text>
+  <text x="710" y="1146" font-size="12" fill="#e0044e">Red = billed API stage</text>
+  <text x="865" y="1146" font-size="12" fill="#555555">| Retarget: swap the OPML feed sets + triage scope rules</text>
+
+  <text x="1870" y="1146" font-size="10" fill="#999999" letter-spacing="1" text-anchor="end">CONFIDENTIAL | EVALUESERVE | CI NEWS MONITORING AGENT — RSS TO MAIL DRAFT</text>
+
+  <!-- Designer credit -->
+  <text x="960" y="1175" font-size="12" font-style="italic" fill="#666666" text-anchor="middle">Designed by Vikee Dhakulkar (Vikee.Dhakulkar@Evalueserve.com)</text>
+</svg>

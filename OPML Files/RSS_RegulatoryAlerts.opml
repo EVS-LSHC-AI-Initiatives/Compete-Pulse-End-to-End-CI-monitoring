@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Regulatory Agencies RSS Feeds</title>
+    <dateModified>Mon, 30 Jun 2026 12:00:00 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Regulatory Agencies - Official RSS Feeds" title="Regulatory Agencies - Official RSS Feeds">
+      <outline text="US FDA Press Releases (via Google News)" title="US FDA Press Releases (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:fda.gov+press+release&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://www.fda.gov"/>
+      <outline text="Europe EMA News" title="Europe EMA News" type="rss" xmlUrl="https://www.ema.europa.eu/en/news.xml" htmlUrl="https://www.ema.europa.eu"/>
+      <outline text="Japan PMDA" title="Japan PMDA" type="rss" xmlUrl="https://www.pmda.go.jp/rss_008.xml" htmlUrl="https://www.pmda.go.jp"/>
+      <outline text="Australia TGA Alerts" title="Australia TGA Alerts" type="rss" xmlUrl="https://www.tga.gov.au/feeds/alert.xml" htmlUrl="https://www.tga.gov.au"/>
+      <outline text="UK MHRA News &amp; Communications" title="UK MHRA News &amp; Communications" type="rss" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency" htmlUrl="https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency"/>
+      <outline text="China NMPA Updates (via Google News)" title="China NMPA Updates (via Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=site:english.nmpa.gov.cn&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://english.nmpa.gov.cn/news.html"/>
+    </outline>
+  </body>
+</opml>
