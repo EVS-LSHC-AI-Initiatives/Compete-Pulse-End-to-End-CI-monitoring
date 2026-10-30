@@ -5,11 +5,20 @@
 
 ---
 
-## 🌐 Live Interactive HTML Workflow for Colleagues
+## 🌐 How Colleagues Can Access & Navigate the Interactive Workflow
 
-Colleagues can navigate the complete prefilled interactive intelligence workflow directly in their browser without installing Python or Node:
+Colleagues can navigate the complete prefilled interactive intelligence workflow without installing Python, Node, or any dependencies:
 
-👉 **[Launch CompetePulse Interactive Workflow](https://evs-lshc-ai-initiatives.github.io/Compete-Pulse-End-to-End-CI-monitoring/#/competepulse/dashboard)**
+### 🌟 Method 1: Live Cloudflare Public URL (Instant Browser Access)
+👉 **[Open Live CompetePulse App](https://meaning-study-witnesses-hire.trycloudflare.com/#/competepulse/dashboard)**
+
+### 📁 Method 2: Zero-Install Standalone HTML File
+Download or double-click **[`CompetePulse_Interactive_Workflow.html`](./CompetePulse_Interactive_Workflow.html)** directly from the repository.  
+It is a 100% self-contained single-file web app (all CSS, SVGs, and prefilled pipeline datasets are bundled inside) that runs instantly in Chrome, Edge, Safari, or Firefox completely offline or online.
+
+### 🚀 Method 3: GitHub Pages Deployment
+👉 **[CompetePulse on GitHub Pages](https://evs-lshc-ai-initiatives.github.io/Compete-Pulse-End-to-End-CI-monitoring/#/competepulse/dashboard)**  
+*(Enabled via GitHub Actions automated workflow in `.github/workflows/deploy.yml` once repository visibility is set to Public or GitHub Pages is enabled in repo settings).*
 
 ### What You Can Explore in the Web UI:
 1. **Executive Overview Dashboard**: High-level KPIs across 592 feeds, 148 extractions, 18 high-priority signals, and active clinical trial diffs.
