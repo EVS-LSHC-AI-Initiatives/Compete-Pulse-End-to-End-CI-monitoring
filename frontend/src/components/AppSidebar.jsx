@@ -50,7 +50,7 @@ export const MODULE_TOOLS = {
     { id: "morning-update", label: "Client Update Brief", icon: Mail, badge: "Draft", badgeColor: "var(--ev-purple)" },
   ],
   clinical: [
-    { id: "clinical-trials", label: "Trial Radar & Diffs", icon: FlaskConical, badge: "5 Alerts", badgeColor: "#d97706" },
+    { id: "clinical-trials", label: "Trial Radar & Diffs", icon: FlaskConical, badge: "5 Alerts", badgeColor: "var(--ev-purple)" },
   ],
   operations: [
     { id: "feeds", label: "Feed Health Monitor", icon: Rss, badge: "592 Feeds" },

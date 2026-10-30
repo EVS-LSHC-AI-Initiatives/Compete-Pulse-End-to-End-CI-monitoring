@@ -28,9 +28,9 @@ export function PriorityBadge({ priority }) {
     border = "var(--ev-red-border)";
     Icon = AlertTriangle;
   } else if (p === "medium") {
-    bg = "#fef3c7";
-    color = "#92400e";
-    border = "#fde68a";
+    bg = "var(--ev-purple-50)";
+    color = "var(--ev-purple)";
+    border = "var(--ev-purple-200)";
     Icon = Clock;
   } else if (p === "low") {
     bg = "var(--ev-blue-50)";
@@ -140,9 +140,9 @@ export function FeedStatusBadge({ status }) {
   let Icon = CheckCircle;
 
   if (s === "warning" || s === "warn") {
-    bg = "#fffbeb";
-    color = "#92400e";
-    border = "#fde68a";
+    bg = "var(--ev-purple-50)";
+    color = "var(--ev-purple)";
+    border = "var(--ev-purple-200)";
     label = "Warning";
     Icon = AlertTriangle;
   } else if (s === "error" || s === "failing") {

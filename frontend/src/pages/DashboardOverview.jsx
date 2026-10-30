@@ -85,8 +85,8 @@ export default function DashboardOverview({ onNavigate }) {
       value: metrics.activeTrials || 310,
       sub: `${metrics.trialDiffs || 5} active change alerts`,
       icon: FlaskConical,
-      accent: "#d97706",
-      bg: "#fffbeb",
+      accent: "var(--ev-dark-purple)",
+      bg: "var(--ev-purple-50)",
       action: () => onNavigate?.("clinical-trials"),
     },
   ];

@@ -8,6 +8,21 @@
   --ev-surface2: #f9f8fa;
   --ev-surface3: #f0eef3;
   --ev-outline: #dcd8e0;
+
+  /* Evalueserve Tints & Accents (No Yellow) */
+  --ev-purple-50: #f5f2f6;
+  --ev-purple-100: #ece9ee;
+  --ev-purple-200: #d9d3db;
+  --ev-blue: #254d84;
+  --ev-blue-50: #f0f4fa;
+  --ev-blue-100: #dfe8f4;
+  --ev-blue-200: #bccfe7;
+  --ev-blue-deep: #254d84;
+  --ev-red-tint: #fde8ef;
+  --ev-red-shade: #b3033e;
+  --ev-red-border: #f7c0d3;
+  --ev-muted: #6c6c6e;
+  --ev-shadow-1: 0 1px 3px rgba(48, 16, 56, 0.05), 0 1px 2px rgba(48, 16, 56, 0.03);
 }
 
 /* Custom scrollbars */

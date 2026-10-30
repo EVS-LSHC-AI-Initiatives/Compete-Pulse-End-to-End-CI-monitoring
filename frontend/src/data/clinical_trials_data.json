@@ -1757,7 +1757,7 @@
       "new_value": "September 30, 2026",
       "change_category": "Timeline Shift",
       "impact_level": "HIGH",
-      "highlight_color": "YELLOW"
+      "highlight_color": "PURPLE"
     },
     {
       "id": "DIFF-02",
@@ -1769,7 +1769,7 @@
       "new_value": "144",
       "change_category": "Cohort Expansion",
       "impact_level": "MEDIUM",
-      "highlight_color": "YELLOW"
+      "highlight_color": "PURPLE"
     },
     {
       "id": "DIFF-03",
@@ -1781,7 +1781,7 @@
       "new_value": "Completed",
       "change_category": "Milestone Achieved",
       "impact_level": "HIGH",
-      "highlight_color": "YELLOW"
+      "highlight_color": "PURPLE"
     },
     {
       "id": "DIFF-04",

@@ -446,8 +446,8 @@ export default function MorningUpdateModule() {
                         borderRadius: 10,
                         fontSize: "11px",
                         fontWeight: 700,
-                        backgroundColor: row.provenance_verdict.includes("New") ? "#ecfdf5" : "#fef3c7",
-                        color: row.provenance_verdict.includes("New") ? "#065f46" : "#92400e",
+                        backgroundColor: row.provenance_verdict.includes("New") ? "#ecfdf5" : "var(--ev-purple-50)",
+                        color: row.provenance_verdict.includes("New") ? "#065f46" : "var(--ev-purple)",
                       }}
                     >
                       {row.provenance_verdict}

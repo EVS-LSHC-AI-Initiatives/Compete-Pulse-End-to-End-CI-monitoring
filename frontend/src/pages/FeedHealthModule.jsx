@@ -133,9 +133,9 @@ export default function FeedHealthModule() {
           <div style={{ fontSize: "11.5px", color: "var(--ev-muted)", marginTop: 2 }}>98.1% polling successfully</div>
         </div>
 
-        <div style={{ backgroundColor: "#ffffff", borderRadius: 8, padding: "16px 18px", border: "1px solid #fde68a", boxShadow: "var(--ev-shadow-1)" }}>
-          <div style={{ fontSize: "11.5px", fontWeight: 700, color: "#92400e", textTransform: "uppercase" }}>Slow / Warning</div>
-          <div style={{ fontSize: "24px", fontWeight: 800, color: "#92400e", marginTop: 4 }}>8</div>
+        <div style={{ backgroundColor: "#ffffff", borderRadius: 8, padding: "16px 18px", border: "1px solid var(--ev-purple-200)", boxShadow: "var(--ev-shadow-1)" }}>
+          <div style={{ fontSize: "11.5px", fontWeight: 700, color: "var(--ev-purple)", textTransform: "uppercase" }}>Slow / Warning</div>
+          <div style={{ fontSize: "24px", fontWeight: 800, color: "var(--ev-purple)", marginTop: 4 }}>8</div>
           <div style={{ fontSize: "11.5px", color: "var(--ev-muted)", marginTop: 2 }}>HTTP latency {">"} 3.5s</div>
         </div>
 

@@ -63,9 +63,9 @@ export default function ClinicalTrialsModule() {
               style={{
                 fontSize: "11px",
                 fontWeight: 700,
-                color: "#92400e",
-                backgroundColor: "#fef3c7",
-                border: "1px solid #fde68a",
+                color: "var(--ev-purple)",
+                backgroundColor: "var(--ev-purple-50)",
+                border: "1px solid var(--ev-purple-200)",
                 padding: "2px 8px",
                 borderRadius: 12,
               }}
@@ -127,7 +127,7 @@ export default function ClinicalTrialsModule() {
           }}
         >
           Change Detection Diffs
-          <span style={{ fontSize: "11px", backgroundColor: "#fef3c7", color: "#92400e", padding: "1px 7px", borderRadius: 10, fontWeight: 700 }}>
+          <span style={{ fontSize: "11px", backgroundColor: "var(--ev-purple-50)", color: "var(--ev-purple)", padding: "1px 7px", borderRadius: 10, fontWeight: 700 }}>
             {changes.length} Alerts
           </span>
         </button>
@@ -228,7 +228,7 @@ export default function ClinicalTrialsModule() {
                 padding: "18px 22px",
                 border: "1px solid var(--ev-outline)",
                 boxShadow: "var(--ev-shadow-1)",
-                borderLeft: "4px solid #d97706",
+                borderLeft: "4px solid var(--ev-purple)",
               }}
             >
               <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 8 }}>

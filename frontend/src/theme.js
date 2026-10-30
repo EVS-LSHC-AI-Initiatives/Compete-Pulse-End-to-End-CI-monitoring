@@ -54,11 +54,12 @@ export const C = {
   greenDeep: "#1b6f2b",        // green badge text, success
   diffGreen: "#C6EFCE",        // newly added trial diff background
 
-  yellow50: "#fffbeb",
-  yellow100: "#fef3c7",
-  yellow200: "#fde68a",
-  yellowDeep: "#92400e",       // warning, medium priority
-  diffYellow: "#FFFFCC",       // changed trial diff background
+  // Status & diff colors (Clean EVS palette, zero yellow)
+  yellow50: "#f5f2f6",         // mapped to purple50
+  yellow100: "#ece9ee",        // mapped to purple100
+  yellow200: "#d9d3db",        // mapped to purple200
+  yellowDeep: "#43224d",       // mapped to purple
+  diffYellow: "#f5f2f6",       // soft purple tint for changed trial diff background
 
   // Circulation tag color (from Morning Update spec)
   limeCirculation: "#d9f99d",
